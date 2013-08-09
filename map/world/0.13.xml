@@ -1,0 +1,9 @@
+<map type="outdoor" backgroundsound="toto.ogg" zone="test">
+	<name lang="en">Crossing of the fate</name>
+	<name lang="fr">Croisement du destin</name>
+	<grass>
+          <monster id="3" minLevel="7" maxLevel="8" luck="80" />
+          <monster id="3" minLevel="9" maxLevel="9" luck="20" />
+  </grass>
+	<wather></wather>
+</map>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="dayMonster" value=""/>
+  <property name="nightMonster" value=""/>
+  <property name="type" value=""/>
+  <property name="waterMonster" value=""/>
+  <property name="wildProbability" value=""/>
+ </properties>
+ <tileset firstgid="1" source="../tileset/terra.tsx"/>
+ <tileset firstgid="1025" source="../tileset/wood.tsx"/>
+ <tileset firstgid="2049" source="../tileset/rename.tsx"/>
+ <tileset firstgid="3073" source="../tileset/building-town.tsx"/>
+ <tileset firstgid="4097" source="../tileset/building-small.tsx"/>
+ <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
+ <tileset firstgid="5137" source="../tileset/animation.tsx"/>
+ <layer name="Walkable" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzTEOACAIADH4P492cXQUYkyHbpdcRkQCAHygtulfDb9f/p6aDr6+vne+C0SQfbA=
+  </data>
+ </layer>
+ <layer name="Other" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAPMDIyMDABMTMjmQaQCRSB9ikBsTKd7R0FAw/UgHGuQUa8M3IgMDnybkA7PQYgvQ2EvbEDZC8D1N4lQKyOhsmJc1JAGtD8dDTcOkzjfO4A2TuYQA4SpjdYCMSLR5C9SjwQTE+QzYDwby4d7QXZuYiB/uE8ai91QCMQN+HBqTSyF+QfFyA+RAAfpoG9tIi7RQNgLzFpgpb2pjDgTzfUtvcgA+H04kqGvQDNtzhj
+  </data>
+ </layer>
+ <layer name="Dirt" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="Grass" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztkMEKACAIQ+3W/39xpyCEcs3ytAdCoG4zs5jWgSFidrc/q3o3C6qx5nzh6zUzvkwudP7k73svNKOs/u31ENicp/sZbv71ly9brG/kj9yf5eeNQgghhBAVDBunA9Y=
+  </data>
+ </layer>
+ <layer name="LedgesRight" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="LedgesLeft" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="LedgesBottom" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="LedgesTop" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="Water" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="other" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzjEKACAMA8AOPrb6/wfY0VXURe4g0ClptoheGZVc7lvycf/JPz9tAQAA7Jq4nQer
+  </data>
+ </layer>
+ <layer name="Collisions" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzF1VlOwkAcx/GpYsID4QFO4Jagz+4ajVuinsHlVT2DJCaK6xWIioDrGTQBxPUULrhewm+DCcOkQwU6+k8+oYQyv/6mVSI+ITrQiYh0vIglLKPakb8b0aw/hWnMKMdejW59rzrqRtfdREfdyFkmOsozJx07Zcl7YCpXnnVyYgb3W5ebIiet7LfbNVRzjVEMK0ZEqa88bve83mdiQZT6ejW6fVVznfr+Ra7pvomQEIdIIoV0qLyvqdcMOVnkcIV8qLyvqVdd7n/03f+Dvo/kPOEZLyiEivfddF8rLEQDGuFDU7iYa7pvMzktaEUb2sNm+9ozbwkxSs4YxjGBScxa5nras8f6GX/537P9Pm55//9KHjvXaeJW+fWt8P6igqjL56rLCrly37jmvEqz5nc/x61vLbm1jK5vjGduA5vYwjZ2sIuYv6jeXKe+adY/wjFOcIoznKMrKES3pCdYWk99dqvpu8p386x/jRvc4g73eEAiwO+aJBlwXtu+77ZerqtP0h907nvAuQXWf8Ub3vGBT3whQ05WklNyB1h38MdQ0Pk63Z7n3+6bPAklQ5fr9fOcUfbCaX/snG8ouA8Y
+  </data>
+ </layer>
+ <layer name="WalkBehind" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYwMHCwMAJxFwsw8uugQKyBOTpHQYpQHtS0ewi5AZauVEDaJ4mEGvhMJeQPDEAm38pAYTic6ABtf072AHMv7SiBxsY9e+of4eiPxdyYOcPFvfRC4z6F8gXZmBIA+J0IM4A4kwgzgLibOGBcSMIiPAxMIgiYTE+hBx62sUHaB2/4kB3SSBhST7CerCBTB4GhlA+BAbxkYEUUEwaimXw2IHPv9jCrZMHPx8dhAPtjkDCkWT6lxCIApobDcUxUDvieFDpgQQAOU0+uA==
+  </data>
+ </layer>
+ <layer name="Other" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRAANNQgwMzUDcIjTQLhkFo2AUjIJRMAroC/7zMDRQw5wQPgS7koeBIYwPt1oQkOeljr2dPAj2TB5U/ijADQAF1QcR
+  </data>
+ </layer>
+ <objectgroup name="Moving" width="30" height="30">
+  <object name="border" type="border-bottom" gid="5124" x="240" y="480">
+   <properties>
+    <property name="map" value="0.6"/>
+   </properties>
+  </object>
+  <object name="border" type="border-left" gid="5124" x="0" y="256">
+   <properties>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object name="border" type="border-right" gid="5124" x="464" y="256">
+   <properties>
+    <property name="map" value="1.7"/>
+   </properties>
+  </object>
+  <object name="border" type="border-top" gid="5124" x="240" y="16">
+   <properties>
+    <property name="map" value="0.8"/>
+   </properties>
+  </object>
+  <object name="bot spawn" type="bot spawn" gid="5122" x="368" y="320"/>
+  <object name="door" type="door" gid="5123" x="416" y="304">
+   <properties>
+    <property name="map" value="../indoor/0.7"/>
+    <property name="x" value="6"/>
+    <property name="y" value="9"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="416" y="192">
+   <properties>
+    <property name="map" value="../indoor/0.7"/>
+    <property name="x" value="6"/>
+    <property name="y" value="3"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

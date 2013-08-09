@@ -1,0 +1,98 @@
+﻿<!-- Default:
+success="100%"
+-->
+
+
+<list>
+	<attack id="1" success="90%">
+		<name lang="en">Intimidation</name>
+		<name lang="fr">Intimidation</name>
+		<description lang="en">Contact with the Pokémon attaque.</name>
+		<description lang="fr">diminution de l'attaque ennemie</name>
+		<effect>
+			<status curse="burn" />
+		</effect>
+	</attack>
+	<attack>
+    <attack id="2" success="90%">
+		<name lang="en">Intimidation</name>
+		<name lang="fr">Intimidation</name>
+		<description lang="en">Contact with the Pokémon attaque.</name>
+		<description lang="fr">diminution de l'attaque ennemie</name>
+		<effect>
+			<status curse="all" />
+		</effect>
+	</attack>
+		<attack id="3" success="90%">
+		<name lang="en">Intimidation</name>
+		<name lang="fr">Intimidation</name>
+		<description lang="en">Contact with the Pokémon attaque.</name>
+		<description lang="fr">diminution de l'attaque ennemie</name>
+		<effect>
+			<status grow="defense" />
+		</effect>
+	</attack>
+		<attack id="4" success="90%">
+		<name lang="en">Intimidation</name>
+		<name lang="fr">Intimidation</name>
+		<description lang="en">Contact with the Pokémon attaque.</name>
+		<description lang="fr">diminution de l'attaque ennemie</name>
+		<effect>
+			<status dim="special attack" />
+		</effect>
+	</attack>
+		<attack>
+		<attack id="5" success="90%">
+		<name lang="en">Point fire</name>
+		<name lang="fr">Point feu</name>
+		<description lang="en">Contact with the Pokémon attaque.</name>
+		<description lang="fr">diminution de l'attaque ennemie</name>
+		<effect>
+			<status curse="burn" success="90%" />
+			<heal damage="100" />
+		</effect>
+	</attack>
+		<attack id="6" target="themself">
+		<name lang="en">Heal</name>
+		<name lang="fr">Soin</name>
+		<description lang="en">Contact with the Pokémon attaque.</name>
+		<description lang="fr">diminution de l'attaque ennemie</name>
+		<effect>
+			<heal heal="100" />
+		</effect>
+	</attack>
+		</attack>
+		<attack>
+		<attack id="7" success="90%">
+		<name lang="en">Tackle</name>
+		<name lang="fr">Charge</name>
+		<description lang="en">Tackle the enemy.</name>
+		<description lang="fr">Charge l'ennemie</name>
+		<effect>
+			<heal damage="40" />
+		</effect>
+	</attack>
+	</attack>
+		<attack>
+		<attack id="8" success="90%">
+		<name lang="en">Claw</name>
+		<name lang="fr">Griffe</name>
+		<description lang="en">Claw the enemy.</name>
+		<description lang="fr">Griffe l'ennemie</name>
+		<effect>
+			<heal damage="35" />
+		</effect>
+	</attack>
+  </attack>
+		<attack>
+		<attack id="9" success="90%">
+		<name lang="en">Armor</name>
+		<name lang="fr">Armure</name>
+		<description lang="en">Up armor..</name>
+		<description lang="fr">Augmente l'armure</name>
+		<effect>
+			<status grow="defense" rate="20%"/>
+		</effect>
+	</attack>
+
+</list>

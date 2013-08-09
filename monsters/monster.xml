@@ -1,0 +1,64 @@
+<!-- default:
+ratio_gender="50%"
+catch_rate="100"
+-->
+<list>
+
+	<!-- ratio_gender: 0% only male, 100% only female, -1 no gender
+	second line is stat at level 100-->
+	<monster id="1" type="fire" height="0.76m" weight="45kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="10000"
+		hp="230" attack="263" defense="190" special_attack="245" special_defense="170" speed="192" give_sp="100" give_xp="11" pow="1.2">
+		<attack_list>
+			<!-- if level is 0, it's base attack, default: attack_level="1" -->
+			<attack level="0" id="8" />
+			<attack level="20" id="1" attack_level="2"/>
+		</attack_list>		
+		<name lang="en">Liondefeu</name>
+		<name lang="fr">Firelion</name>
+		<description lang="en">Firelion use fire for protect himsell.</description>
+		<description lang="fr">Lion de feu utilise le feu afin de ce protége.</description>
+	</monster>
+	<!-- ratio_gender: 0% only male, 100% only female, -1 no gender
+	second line is stat at level 100-->
+	<monster id="2" type="fly" type2="earth" height="0.2m" weight="2kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="10000"
+	hp="185" attack="185" defense="200" special_attack="200" special_defense="180" speed="200" give_sp="100" give_xp="10" pow="1.2">
+		<attack_list>
+			<!-- if level is 0, it's base attack, default: attack_level="1" -->
+			<attack level="0" id="3" />
+			<attack level="10" id="3" attack_level="2" />
+		</attack_list>		
+		<name lang="en">Elofly</name>
+		<name lang="fr">Elofly</name>
+		<description lang="en">Elofly</description>
+		<description lang="fr">Elofly</description>
+	</monster>
+	<monster id="3" type="plant" type2="earth" height="0.54m" weight="20kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="10000"
+	hp="185" attack="220" defense="185" special_attack="220" special_defense="180" speed="190" give_sp="100" give_xp="10" pow="1.2">
+		<attack_list>
+			<!-- if level is 0, it's base attack, default: attack_level="1" -->
+			<attack level="0" id="3" />
+			<attack level="10" id="3" attack_level="2" />
+		</attack_list>		
+		<name lang="en">Conifeuille</name>
+		<name lang="fr">Conifeuille</name>
+		<description lang="en">Conifeuille</description>
+		<description lang="fr">Conifeuille</description>
+	</monster>
+	<monster id="5" type="stone" type2="earth" height="1.56m" weight="56kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="10000"
+	hp="210" attack="170" defense="240" special_attack="170" special_defense="260" speed="150" give_sp="100" give_xp="10" pow="1.2">
+		<attack_list>
+			<!-- if level is 0, it's base attack, default: attack_level="1" -->
+			<attack level="0" id="3" />
+			<attack level="10" id="3" attack_level="2" />
+		</attack_list>		
+		<name lang="en">Polyrock</name>
+		<name lang="fr">Polyrock</name>
+		<description lang="en">Polyrock</description>
+		<description lang="fr">Polyrock</description>
+	</monster>
+	
+	
+	
+	
+	
+</list>

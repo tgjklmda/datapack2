@@ -1,0 +1,9 @@
+<map type="outdoor" backgroundsound="toto.ogg" zone="test">
+	<name lang="en">Megalopolis</name>
+	<name lang="fr">Megalopolis</name>
+	<grass>
+          <monster id="1" minLevel="4" maxLevel="5" luck="20" />
+          <monster id="2" minLevel="4" maxLevel="6" luck="80" />
+  </grass>
+	<wather></wather>
+</map>

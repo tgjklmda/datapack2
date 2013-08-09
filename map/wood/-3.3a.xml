@@ -1,0 +1,9 @@
+<map type="outdoor" backgroundsound="toto.ogg" zone="test">
+	<name lang="en">Wood</name>
+	<name lang="fr">Fôret</name>
+	<grass>
+          <monster id="3" minLevel="5" maxLevel="6" luck="70" />
+          <monster id="2" minLevel="5" maxLevel="6" luck="30" />
+  </grass>
+	<wather></wather>
+</map>

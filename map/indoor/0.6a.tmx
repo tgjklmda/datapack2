@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" source="../tileset/inside-terra.tsx"/>
+ <tileset firstgid="1025" source="../tileset/invisible.tsx"/>
+ <tileset firstgid="1041" source="../tileset/inside-decoration.tsx"/>
+ <tileset firstgid="2065" name="1" tilewidth="16" tileheight="16">
+  <image source="../tileset/inside-mobilier.png" trans="000000" width="512" height="512"/>
+  <tile id="32">
+   <properties>
+    <property name="Grass" value="true"/>
+   </properties>
+  </tile>
+  <tile id="837">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="838">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="839">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="869">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="870">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="871">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="901">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="902">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="903">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="934">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="935">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="966">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="967">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Walkable" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzrYGBgWEFl3EFFmppmjbpv1H2j7qOv+6ht5qj7KDcLFybHTACpwe9h
+  </data>
+ </layer>
+ <layer name="Other" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BogU/cCPZXbtzqRsEoAIHhkl7kBtoBWAAAwTsEGQ==
+  </data>
+ </layer>
+ <layer name="Collisions" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzNk7kNwkAQRScgQNoMyaWQUhRHTA+AK3BCytkBgpSzEVMAbwPEskLMLEvgL73E1jxZ4z+ViFQKhRHN86RrxOrrtUXGoMXqs+ZXX9+JDGAII5fvm+CYwgzKTN+C+SWsYA0b2Lo0X6f18h2ZPcEZLnCFW6LvU2ocd/f+rCn/N9cX7s9H64t2k3G0vmg3GcbSlzjz4FaL6J2lLzvm9wGHwOe/Md6fz7e+/CtN9vmdWPuXwgM+aI6m
+  </data>
+ </layer>
+ <layer name="Other" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/kONgYJDnGACLR8EoGAWjYBRQDQAAw/8ATg==
+  </data>
+ </layer>
+ <layer name="WalkBehind" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFhEAQNwNDMBCHAHEo90C7hvpgEgt1zdtEZfMGO0APP0rTy2ALvw4O2ppPbvpbjsNdgy38yAFDJU8CAJzrCWQ=
+  </data>
+ </layer>
+ <layer name="other" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAeiLIQJ0YsMMWiF5vYKBgFo2AUjILBBwDBJQCl
+  </data>
+ </layer>
+ <objectgroup name="Moving" width="20" height="20">
+  <object name="teleport on push" type="teleport on push" gid="1027" x="48" y="320">
+   <properties>
+    <property name="map" value="../world/0.6"/>
+    <property name="x" value="11"/>
+    <property name="y" value="8"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Object" width="20" height="20"/>
+</map>

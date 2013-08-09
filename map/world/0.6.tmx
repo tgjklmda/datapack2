@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="dayMonster" value=""/>
+  <property name="nightMonster" value=""/>
+  <property name="type" value=""/>
+  <property name="waterMonster" value=""/>
+  <property name="wildProbability" value=""/>
+ </properties>
+ <tileset firstgid="1" source="../tileset/terra.tsx"/>
+ <tileset firstgid="1025" source="../tileset/wood.tsx"/>
+ <tileset firstgid="2049" source="../tileset/rename.tsx"/>
+ <tileset firstgid="3073" source="../tileset/building-town.tsx"/>
+ <tileset firstgid="4097" source="../tileset/building-small.tsx"/>
+ <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
+ <tileset firstgid="5137" name="1" tilewidth="16" tileheight="16">
+  <image source="../tileset/animation.png" trans="000000" width="512" height="512"/>
+  <tile id="32">
+   <properties>
+    <property name="Grass" value="true"/>
+   </properties>
+  </tile>
+  <tile id="806">
+   <properties>
+    <property name="animation" value="500ms;4frames"/>
+   </properties>
+  </tile>
+  <tile id="837">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="838">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="839">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="869">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="870">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="871">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="901">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="902">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="903">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="934">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="935">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="966">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="967">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Walkable" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEKACAMQ9Hm/p7Ck7p0EEGQWoNihj/Kg1qFmcErpDAkV+4Jm+m+XPWYHjqXdVd10srZnZ3KcKN2dM4Z7yiyV7/9G3LlypUrV+4NbgPQVb9c
+  </data>
+ </layer>
+ <layer name="Other" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlcENgzAMRRmg4sIEtPfeukF77RQwSOkkDZOQLtZExVL0sYpxAvSQL31ZiWI/E4Epini9nPsEdVDHw9Rrc2uG6X0K2Mitmd4wRyIDTCN4XjyD68ydygLXCrh4Btexeji3zo3zM23pWSZJyy6r5UwD1rDP1bdeJ3DL5JsxNoL8UHfHHVy0At9+cK+CfK2GkY337JnviLoa9hZMZG/JJEn/R5dyH25qrcH1Nem96YMo5Wp7ojyMc7WpXw0znPkYcXZxe4bZ5+YVSjK76PuVzKgU84oUc5+Zm7n/xiXtxV2qD8pZfZ8=
+  </data>
+ </layer>
+ <layer name="Dirt" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="Grass" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="LedgesRight" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="LedgesLeft" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="LedgesBottom" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="LedgesTop" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="Water" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="Collisions" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzNlrtOAkEUhseEAiOi7j6GGu93G2s13loTfRUVEmO8NRoLG0AqQW200mJBK0F9D0FQWwv/wd0wjmdmF7mEP/myu2HP+TmzM2cm5GMsDLhOW1hDxH3O4BlX+G74GTsJqlHpKKjG8QlJ9W75y/GbuI8EaM9YQO3LYyhPJ4aqV/R1cnCiArGAu68uxq3eevneunzfevlynRuMJUDSoH0tRY60ncMSxse5d4vheoRfBmTBl2Id8TwpgbSmVq8xr/DLgbyhySHUNNP6+1kXw9+lcnC1mYwFQLvpnquW6oZfD+htsO8s/ObAfBW+axjDdQ9jL0pcv6sN6s9cbutX1Dbe2/F5z617X+5XjZKu3jH08nEFE/beQvWNXcyVPbAPDsChPXeGETNio6tX7jly/1EpAZ8kuACX4Mr8m0+uNyT8/9J+Bo6Jq843A58seALP4IXwlesN+38ojRt+vwY3xFXXK3PwyYM3UABFs5zP6Zu67+ulH/73/Wacz/VUs9dbwD5ZBO/gA3wq9k1qzTtrXRRVr7i+OaOgA3OyE3QBA5iKfYRa83zNTSLHlM10kK6XOqP0wacfDIBBMFShb0R6puqlzigL8FkES2AZrCh85Vgn3pKevXzfkNBLaqVq5nMEcysKYuAMxDVnNFlivfw8fVcBFnxSIA3uwYPhPfYbBNb06A==
+  </data>
+ </layer>
+ <layer name="WalkBehind" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzdlMlKA0EQhusQMIdhAhkTV9BbfAPxpLf4AO6KJ0UPbgeX+BoaXI6+gsaoT+H2Qv5NuqEx1dtMRgZ/+Bjo7qq/a+gqIrMuYqKWhcu4P+YUa2cWzmXMTolot8T73jJ5dd0z+21HzI1jX+glNnsLzzdmrxObvYVn16Ne5f3KwHnq3s8MXY9alfYifn3fsO4rV72NqN9beM54+Kq4NHdsRj3vK3AN2tJz0SNXQ57xuaPJ+xE8gY6np4oT8j3/V2plvM9UmWi6HB53l9F3Hp4Lgb6u9/zfVMR6RzDXRg2MWWbeQUJ0CI7AMThJeuvDiKlJbPXOWnLPBczaUK0i95qB9RS+S4hZltjqTSr4N6DGfOuVcN8h2a/bjr59SDELbGpqfkV8z3mq6PW+V4k+wCf4At9V/hzX81yvc/Xq/S2oD6BXx5FjQjKZQ+9zPc/1Olev3t+ClcD7cf25gRybkq0cZ51LWd7z77ky6DmTh1S9ab5Z8v0ALbhWNQ==
+  </data>
+ </layer>
+ <layer name="Other" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DwgYUc2NlDAawTwi6O7g9i/EWKnnM47KU1eEdHe0t5ILgMiH146GdvNg8C59DR3lFAGhjK5QY6uMzHwHAFiK9ioa/xDbTrBh4M9fgdBYTBfx6GhoGwV553YOylFFQB66ZqKtZPMPMImTsLKDebivbCzKOWuU3ANkozELcMUBtpqAAAylweYw==
+  </data>
+ </layer>
+ <objectgroup name="Moving" width="30" height="30">
+  <object name="border" type="border-bottom" gid="5124" x="240" y="480">
+   <properties>
+    <property name="map" value="0.5"/>
+   </properties>
+  </object>
+  <object name="border" type="border-left" gid="5124" x="0" y="256">
+   <properties>
+    <property name="map" value="-1.6"/>
+   </properties>
+  </object>
+  <object name="border" type="border-right" gid="5124" x="464" y="256">
+   <properties>
+    <property name="map" value="1.6"/>
+   </properties>
+  </object>
+  <object name="border" type="border-top" gid="5124" x="240" y="16">
+   <properties>
+    <property name="map" value="0.7"/>
+   </properties>
+  </object>
+  <object name="bot spawn" type="bot spawn" gid="5122" x="368" y="320"/>
+  <object name="door" type="door" gid="5123" x="48" y="192">
+   <properties>
+    <property name="map" value="../indoor/-1.6"/>
+    <property name="x" value="9"/>
+    <property name="y" value="5"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="272" y="464">
+   <properties>
+    <property name="map" value="../indoor/0.5"/>
+    <property name="x" value="6"/>
+    <property name="y" value="3"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="48" y="176">
+   <properties>
+    <property name="map" value="../indoor/-1.6"/>
+    <property name="x" value="9"/>
+    <property name="y" value="5"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="176" y="128">
+   <properties>
+    <property name="map" value="../indoor/0.6a"/>
+    <property name="x" value="3"/>
+    <property name="y" value="18"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="368" y="304">
+   <properties>
+    <property name="map" value="../indoor/0.6b"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="192" y="432">
+   <properties>
+    <property name="map" value="../indoor/0.6d"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object type="bot" gid="5123" x="352" y="160">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="1"/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="terranite"/>
+   </properties>
+  </object>
+  <object type="bot" gid="5123" x="128" y="448">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="1"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="john"/>
+   </properties>
+  </object>
+  <object type="bot" gid="5123" x="224" y="320">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="1"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="john"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
