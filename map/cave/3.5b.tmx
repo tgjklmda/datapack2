@@ -13,14 +13,14 @@
  <tileset firstgid="3073" source="../tileset/building-small.tsx"/>
  <tileset firstgid="4097" source="../tileset/animation.tsx"/>
  <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
- <layer name="Walkable" width="30" height="30">
+ <layer name="Walkable" width="30" height="30" visible="0">
   <data encoding="base64" compression="zlib">
    eJztwwENAAAMAiDfv5XJDHLY6CVVVVX13QHAyq2r
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBh6QJVjoF0w9MGhIRaGo3FOHMAVToTC7zKJ6kcBYTAUwhCbG6nlbmqYMxTCcCQAesTDZBLUkuMeavuBnLJ2sKdnerlvsIcDDAwVd8LAYHQvLeuYoQgGs98BDEoGPA==
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -30,7 +30,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztlFEOwCAIQ/X+t9rJ/F3MFIq0msUmfkn6AMFSrnbpqd/Huu/jIlyP/5uTxV05DM28VdxRr5VcZZ9PqPcPXM+u7OAq+zzKy5Mn6hn5KzO4njwsH1a9sx4wZNUcmTX0TZVcyztzt5AZZnEzYxE/ZLbVzOxdYnhe7jncFTW1g7qg
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -55,7 +55,7 @@
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztzjEBAAAIAyD71zGKhYyxY5CAGaDdpQNAtU0HAIo9LqgBhw==
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">

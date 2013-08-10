@@ -113,12 +113,12 @@
  </layer>
  <layer name="LedgesRight" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzcEJACAMALE6mLj/EOIqjmCh9GXyPrgIAACAmp1oTsN3jnezEs2vLn5/Ajs=
+   eJztzQENAAAEADCS6Z9CFSnMbH+BRwAAAOzro7fyKH5gALUKASA=
   </data>
  </layer>
  <layer name="LedgesLeft" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztzUERAAAEADCC6Z9CFyE83LmtwCIAAAB2+uitPIqfGNd2ARw=
   </data>
  </layer>
  <layer name="LedgesBottom" width="30" height="30">

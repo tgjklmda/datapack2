@@ -88,7 +88,7 @@
  </layer>
  <layer name="Collisions" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxbzMDAsJgMLIQDY1NrhANjU4sOlnFA6FG1uNWSEheEMAAfWTSf
+   eJxbzMDAsJgMLIQDY1NrhANjU4sOlnFA6FG1uNXCwh4G8MUFIQwAFhE0ew==
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
@@ -126,6 +126,13 @@
     <property name="map" value="../world/0.6"/>
     <property name="x" value="17"/>
     <property name="y" value="27"/>
+   </properties>
+  </object>
+  <object name="teleport on push" type="teleport on push" gid="1027" x="96" y="176">
+   <properties>
+    <property name="map" value="../world/0.5"/>
+    <property name="x" value="17"/>
+    <property name="y" value="4"/>
    </properties>
   </object>
  </objectgroup>

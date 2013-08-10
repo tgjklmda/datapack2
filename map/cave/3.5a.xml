@@ -1,0 +1,8 @@
+<map type="cave" backgroundsound="toto.ogg" zone="test">
+	<name lang="en">Cave</name>
+	<name lang="fr">Grotte</name>
+	<grass>
+          <monster id="5" minLevel="6" maxLevel="8" luck="100" />
+  </grass>
+	<wather></wather>
+</map>

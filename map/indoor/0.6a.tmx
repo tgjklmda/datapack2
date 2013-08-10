@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="16" tileheight="16">
+<map version="1.0" orientation="orthogonal" width="33" height="20" tilewidth="16" tileheight="16">
  <tileset firstgid="1" source="../tileset/inside-terra.tsx"/>
  <tileset firstgid="1025" source="../tileset/invisible.tsx"/>
  <tileset firstgid="1041" source="../tileset/inside-decoration.tsx"/>
@@ -76,38 +76,38 @@
    </properties>
   </tile>
  </tileset>
- <layer name="Walkable" width="20" height="20">
+ <layer name="Walkable" width="33" height="20">
   <data encoding="base64" compression="zlib">
-   eJzrYGBgWEFl3EFFmppmjbpv1H2j7qOv+6ht5qj7KDcLFybHTACpwe9h
+   eJxbwcDAsIJE3EGGHnIwIXs6Boimlf2kmjsaDqPhMBoOgy8chlr4DjV6qIUDrdw71MJhqIXvUKOpjclxBwDtcY3w
   </data>
  </layer>
- <layer name="Other" width="20" height="20">
+ <layer name="Other" width="33" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2BogU/cCPZXbtzqRsEoAIHhkl7kBtoBWAAAwTsEGQ==
+   eJxjYBgFo2AU4AIbuTHFtmERo6XZF7GIXaOSG0gx+xNQ/DMQfwHir1Synx5mj4LhCUbzJgKM5s2hDeQG2gFUAgDzEBzv
   </data>
  </layer>
- <layer name="Collisions" width="20" height="20">
+ <layer name="Collisions" width="33" height="20">
   <data encoding="base64" compression="zlib">
-   eJzNk7kNwkAQRScgQNoMyaWQUhRHTA+AK3BCytkBgpSzEVMAbwPEskLMLEvgL73E1jxZ4z+ViFQKhRHN86RrxOrrtUXGoMXqs+ZXX9+JDGAII5fvm+CYwgzKTN+C+SWsYA0b2Lo0X6f18h2ZPcEZLnCFW6LvU2ocd/f+rCn/N9cX7s9H64t2k3G0vmg3GcbSlzjz4FaL6J2lLzvm9wGHwOe/Md6fz7e+/CtN9vmdWPuXwgM+aI6m
+   eJxbzMDAIEokXkwCJtVMUyIxKW4g1UxCwI6DgaGegzQ3wPQQAsS6AV09MZhUM2GgiJuBoRiIS4C4lJu6bsBlNrr6SUC5yUA8BYinUtkNuMxGV78JKLcZiLcA8VYquwGX2ejqLwHlLgPxFSC+iuYGIRbS3ABSjwxwmT0Y0+SoGyAAX96kND1QM28SWwegA2rmTWLrAHRAjbzJAPUjDCxDqwtWcGBXR8hsUtIPKH5NkfjHgHYeR8InkNxgyoCZHnABUtMwLcCoG0jP77TEAKbbwAE=
   </data>
  </layer>
- <layer name="Other" width="20" height="20">
+ <layer name="Other" width="33" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYKA/kONgYJDnGACLR8EoGAWjYBRQDQAAw/8ATg==
+   eJxjYBi+QI6DgUGeY6BdMQpGwSgYBaNgFIyCUTC8AQDhpgBO
   </data>
  </layer>
- <layer name="WalkBehind" width="20" height="20">
+ <layer name="WalkBehind" width="33" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFhEAQNwNDMBCHAHEo90C7hvpgEgt1zdtEZfMGO0APP0rTy2ALvw4O2ppPbvpbjsNdgy38yAFDJU8CAJzrCWQ=
+   eJxjYEAAURYGDIBNjJbAFIt9IDE5DgaGeA76umUgQRA3A0MwEIcAcSj30DF7pIFJJOYPUtUTAzaRaCap6kcBKsCXfyhND9TIm6PpATtoQ6s/OuhQnwzm8mE5Dv+PlPRADUCL+CIVDKb4AgCoyxH7
   </data>
  </layer>
- <layer name="other" width="20" height="20">
+ <layer name="other" width="33" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYCAeiLIQJ0YsMMWiF5vYKBgFo2AUjILBBwDBJQCl
+   eJxjYKAtEGUhToyWwBSLfdjERsEoGAWjYBSMglEwCkYB6QAAJyoApQ==
   </data>
  </layer>
- <objectgroup name="Moving" width="20" height="20">
-  <object name="teleport on push" type="teleport on push" gid="1027" x="48" y="320">
+ <objectgroup name="Moving" width="33" height="20">
+  <object name="teleport on push" type="teleport on push" gid="1027" x="256" y="320">
    <properties>
     <property name="map" value="../world/0.6"/>
     <property name="x" value="11"/>
@@ -115,5 +115,14 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Object" width="20" height="20"/>
+ <objectgroup name="Object" width="33" height="20">
+  <object name="bot" type="bot" gid="1027" x="256" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="1"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="guardian"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>
