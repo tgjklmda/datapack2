@@ -13,8 +13,7 @@ success="100%"
 			<status curse="burn" />
 		</effect>
 	</attack>
-	<attack>
-    <attack id="2" success="90%">
+	<attack id="2" success="90%">
 		<name lang="en">Intimidation</name>
 		<name lang="fr">Intimidation</name>
 		<description lang="en">Contact with the Pokémon attaque.</name>
@@ -23,7 +22,7 @@ success="100%"
 			<status curse="all" />
 		</effect>
 	</attack>
-		<attack id="3" success="90%">
+	<attack id="3" success="90%">
 		<name lang="en">Intimidation</name>
 		<name lang="fr">Intimidation</name>
 		<description lang="en">Contact with the Pokémon attaque.</name>
@@ -32,7 +31,7 @@ success="100%"
 			<status grow="defense" />
 		</effect>
 	</attack>
-		<attack id="4" success="90%">
+	<attack id="4" success="90%">
 		<name lang="en">Intimidation</name>
 		<name lang="fr">Intimidation</name>
 		<description lang="en">Contact with the Pokémon attaque.</name>
@@ -41,8 +40,7 @@ success="100%"
 			<status dim="special attack" />
 		</effect>
 	</attack>
-		<attack>
-		<attack id="5" success="90%">
+	<attack id="5" success="90%">
 		<name lang="en">Point fire</name>
 		<name lang="fr">Point feu</name>
 		<description lang="en">Contact with the Pokémon attaque.</name>
@@ -52,7 +50,7 @@ success="100%"
 			<heal damage="100" />
 		</effect>
 	</attack>
-		<attack id="6" target="themself">
+	<attack id="6" target="themself">
 		<name lang="en">Heal</name>
 		<name lang="fr">Soin</name>
 		<description lang="en">Contact with the Pokémon attaque.</name>
@@ -61,9 +59,7 @@ success="100%"
 			<heal heal="100" />
 		</effect>
 	</attack>
-		</attack>
-		<attack>
-		<attack id="7" success="90%">
+	<attack id="7" success="90%">
 		<name lang="en">Tackle</name>
 		<name lang="fr">Charge</name>
 		<description lang="en">Tackle the enemy.</name>
@@ -72,9 +68,7 @@ success="100%"
 			<heal damage="40" />
 		</effect>
 	</attack>
-	</attack>
-		<attack>
-		<attack id="8" success="90%">
+	<attack id="8" success="90%">
 		<name lang="en">Claw</name>
 		<name lang="fr">Griffe</name>
 		<description lang="en">Claw the enemy.</name>
@@ -83,9 +77,7 @@ success="100%"
 			<heal damage="35" />
 		</effect>
 	</attack>
-  </attack>
-		<attack>
-		<attack id="9" success="90%">
+	<attack id="9" success="90%">
 		<name lang="en">Armor</name>
 		<name lang="fr">Armure</name>
 		<description lang="en">Up armor..</name>

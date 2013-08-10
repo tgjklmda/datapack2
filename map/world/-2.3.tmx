@@ -66,7 +66,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9lzlOAzEUhh2JgmKUJidIB9SBLkkL3IGkBY7AmiJICLEvDVRh6diXAwy0JOy3IGHv+S1sjfWwPZ5kkl/65Jl5z37+M2PPpNzF2Bwox9SmAVVak7cPDmJsTXVpnm3eWfTJKeSZPk8lm0RuMqgpz2U8zC/PGSHzLjJ9Xgbj9guqHmM1L+gjz3lsIOnmV1dXl1fBuLsCU10e2/Pi88sVpa7Jr3qvptGvJPpPgVkWxFT5os61pS6P3Vj8NiO/OziuY+yG9/98HmMvWJ7ndsvkl/+eOQv5FutG9SvjRU2Mz3WGBc+CTVHvr4zr6trGp37C1q9Juro9yO8FfZrxqZ+w9Sul7kVyz6EaRP4QGBb91lKMrYMNsAm2UtH9qnuCXPtUo8gfA+Oi3xnqnIMLcAmulLoufguOdakeUOcRPIFn8KLxS98n6h7A5Yu9hkvuOVTq88z7f6DOJ/gC3+BH47fTamVfbEWm9zb9neOW6/O8iHuzBJbBClhNmcd0kev6PUSdI3AMTsApSChxfpxR1jY/L4hYRrPmXb43eP9b1KmCGrgD9xq/FcMa49cnwKRy3eV7g+sVdeqgAd7Au8avr7zXE+KdVmJ/17fBjlLXxW875Oo3blG/dD11ym+nFHZ/w1o6/6hts/+D6Pyjtr8rIB8h
+   eJy9V7lOAzEUdCQKilWa8APpgDrQJWmBfyBpgZ6GM0WQEOI+GqjC0XEfH7CkJeH+C8Il6BkLW2uZZ6+XbDLSyLv73vN4dvd5k3IHY3NgOaYxDepIE3n74EGMo0lXz7OtO4uanMI8o/NUZpPITQaa8lzGw/zynGFt3UVG52Uwb59gzWOs7gU18pzH+pNufildKq+CeXcFTbo8tufF55cjiq7Jr/qsplFXEvVT4CwLYip8fh+7GLu26PJY1eL3P/A7g+MG5n71/p7PY+4Fy/vcapj88vuZszDfpG5UvzJeJGJ8rTMseBdsiPp8ZZzStc2v+wnrXxMo3W7k94C9xPy6n7D+lVD3Irnn6BhA/iA4JOrWUoytgxvgJriViu5X3RNk7+sYQf4oOCbqzqBzDl6Al+CVouvit+Coq+MeOg/gI/gEPhN+9e+Jugdw+GKvkftRldBV32de/wGdT3AcNV8Yvwm/7UYz+2IzMH239fscN1zf50U8myVwGVwBV1PmOV3g2r+H0DkCj8ET8BRMKHF+nFF6m58XRCxD9LzL7w1efwOdGlgHb8E7wm/F0GP8+gQ4qVx3+b3B8QKdhuiJN4zvhF9f+a4nxDetxH6vb4M7iq6L31bA1W/c0P3q/dQuv+1C2PMNG/X1Rx3/+z9IX3/U8Qeg8h6+
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
@@ -76,7 +76,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2DwAlGRgbHXdIDsHQWjYBQMPsDOA6FNRSE0Bw997HWH2hMKtdeDTvaOglEwUKAKmMarsaRzXOLUArOAZs/GYj4u8VEwCoYbAADLYQap
+   eJxjYBgFo2DwAlGRgXbBKBgFo2CkA3YeCG0qCqE5eOhjrzuaPR50sncUjIKBAlXANF6NJZ3jEqcWmAU0ezYW83GJj4JRMNwAAAN3BfY=
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">

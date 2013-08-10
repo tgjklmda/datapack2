@@ -9,8 +9,5 @@ Some special product can be added onetime too
     <product itemId="1" />
 		<product itemId="5" />
 		<product itemId="9" />
-		<product berry id="1" />
-		<product berry id="2" />
-		<product berry id="3" />
 	</shop>
 </shops>

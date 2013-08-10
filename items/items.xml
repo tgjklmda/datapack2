@@ -89,7 +89,7 @@
 		</effect>
 	</item>	
 	
-		<item id="10" price="500">
+	<item id="10" price="500">
 		<name>Superreppousse</name>
 		<name lang="fr">Superreppousse</name>
 		<description>The Superreppousse used for Reppousse monsters during 250 step.</description>
@@ -99,7 +99,7 @@
 		</effect>
 	</item>	
 	
-		<item id="10" price="750">
+	<item id="11" price="750">
 		<name>Hyperreppousse</name>
 		<name lang="fr">Hyperreppousse</name>
 		<description>The Hyperreppousse used for Reppousse monsters during 500 step.</description>
@@ -109,24 +109,3 @@
 		</effect>
 	</item>	
 </items>	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		<effectinfight>
-			<regeneration attack="10" status="all;burn;tox" hp="10" pp="10;+5" resurect="1;50%" /><!-- "attack" apply on attack --> <!-- "status" restor status --> <!-- "pp" "+" = s'aplique surtoute les attaques--> <!-- "resurect" rappel le pokemon avec X hp ou x% de la vie total  -->
-			<charactéristique change="all10;att20;def5%" uptime="0"/><!-- change la carateristique d'un pokemon durant un combat "all" affécte toutes les caracteristiques si "%" augmentation en % si uptime si les duré s'estompe aprés x tour si pas pressiser dure toute la durée du combat -->
-			
-		</effectinfight>
-		<effect>
-			<regeneration attack="10" status="all;burn;tox" hp="10" pp="10;+5" resurect="1;50%" /><!-- "attack" apply on attack --> <!-- "status" restor status --> <!-- "pp" "+" = s'aplique surtoute les attaques--> <!-- "resurect" rappel le pokemon avec X hp ou x% de la vie total  -->
-			<charactéristique change="all10;att20;def5" uptime="0"/><!-- change la carateristique d'un pokemon durant un combat "all" affécte toutes les caracteristiques, si uptime les effets s'estompe aprés x tour si pas pressiser dure toute la durée du combat -->
-			<repousse rate="100"/>
-		</effect>

@@ -123,7 +123,7 @@
   </object>
   <object name="teleport on push" type="teleport on push" gid="1027" x="160" y="16">
    <properties>
-    <property name="map" value="../indoor/0.0A2"/>
+    <property name="map" value="../indoor/0.0a"/>
     <property name="x" value="8"/>
     <property name="y" value="2"/>
    </properties>
