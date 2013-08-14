@@ -14,7 +14,7 @@
  <tileset firstgid="4097" source="../tileset/building-small.tsx"/>
  <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
- <layer name="Walkable" width="30" height="30">
+ <layer name="Walkable" width="30" height="30" opacity="0.9">
   <data encoding="base64" compression="zlib">
    eJztzbENADAIwDB4lf+PaD9ggA1L8ZzKiFr2a20/fX0vfgEAYOIB0XND1Q==
   </data>
@@ -105,7 +105,7 @@
    <properties>
     <property name="map" value="../cave/3.5b"/>
     <property name="x" value="16"/>
-    <property name="y" value="24"/>
+    <property name="y" value="28"/>
    </properties>
   </object>
  </objectgroup>

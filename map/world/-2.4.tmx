@@ -31,7 +31,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlkkKwDAIRdNdj+3R25JNEDXilNLmg7voE4dga//WcXbTvJm9i+ZmCHOr8qC4FRp7V1lziruq31/W6vpuvVPeebh94TEr1+I7crEJnND5tzCj9o7irvpHq7kch+J68kGxQeAClUP0XknxuFoY9xK0d49Uc69mcbgZCOCCNreMWdfGzubuG0HWBWARDxw=
+   eJztlsEOwDAEhrvbHtujb0svIqiosmz9Ezf1qdJo7d86zm4Wn5FfNHeFKDcrD46bIfx2mTXnuFXv/WVV13frnZrth/ssPObles5iLjWFE9r/HmbU3HHcqn8UczK40v047kw+JDYoXOByiJ4rLZ5UC+dcgnXv0Wo+q1EcqQcCuGDNbUWvW2Ov5u4dQdcFM6kPEw==
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -101,5 +101,31 @@
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="192" y="240"/>
+ </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object name="bot" type="bot" gid="5123" x="224" y="320">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="206"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="girlplayer"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="368" y="32">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="208"/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="terranite"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="160" y="160">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="207"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

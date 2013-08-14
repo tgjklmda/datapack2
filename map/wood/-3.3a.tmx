@@ -75,26 +75,6 @@
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
-  <object name="border" type="border-bottom" gid="5124" x="240" y="480">
-   <properties>
-    <property name="map" value=""/>
-   </properties>
-  </object>
-  <object name="border" type="border-left" gid="5124" x="0" y="256">
-   <properties>
-    <property name="map" value=""/>
-   </properties>
-  </object>
-  <object name="border" type="border-right" gid="5124" x="464" y="256">
-   <properties>
-    <property name="map" value=""/>
-   </properties>
-  </object>
-  <object name="border" type="border-top" gid="5124" x="240" y="16">
-   <properties>
-    <property name="map" value="0.1"/>
-   </properties>
-  </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="272" y="192"/>
   <object name="door" type="teleport on push" gid="5123" x="400" y="240">
    <properties>
@@ -108,6 +88,48 @@
     <property name="map" value="../world/-3.3"/>
     <property name="x" value="9"/>
     <property name="y" value="19"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="object" width="30" height="30">
+  <object name="bot" type="bot" gid="5123" x="80" y="80">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="205"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="girlplayer"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="80" y="336">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="204"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="girlplayer"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="144" y="272">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="204"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="girlplayer"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="224" y="192">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="204"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="girlplayer"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="352" y="96">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="204"/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="girlplayer"/>
    </properties>
   </object>
  </objectgroup>

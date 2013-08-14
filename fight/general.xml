@@ -8,23 +8,120 @@ The id need be unique to save the already fight
 		<monster id="2" level="5">
 			<attack id="2" />
 		</monster>
-		<gain cash="12" />
+		<gain cash="100" />
 	</fight>
 	<fight id="2">
 		<start lang="en"><![CDATA[Ready for the fight?]]></start>
 		<win lang="en"><![CDATA[You are so strong for me!]]></win>
-		<monster id="3" level="5">
+		<monster id="3" level="6">
 			<attack id="3" />
 		</monster>
-		<gain cash="12" />
+		<gain cash="100" />
 	</fight>
 	<fight id="3">
 		<start lang="en"><![CDATA[Ready for the fight?]]></start>
 		<win lang="en"><![CDATA[You are so strong for me!]]></win>
-		<monster id="5" level="5">
+		<monster id="5" level="7">
 			<attack id="3" />
 		</monster>
-		<gain cash="12" />
+		<gain cash="100" />
+	</fight>
+	<fight id="4">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="3" level="8">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>
+	<fight id="5">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="3" level="8">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="3" level="8">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="3" level="10">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>
+	
+	<fight id="6">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="2" level="8">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="2" level="9">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>
+	
+	<fight id="7">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="5" level="11">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+	
+	<fight id="8">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="5" level="9">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="5" level="9">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
 	</fight>
 
+	<fight id="9">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="3" level="7">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="3" level="7">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="3" level="8">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="3" level="8">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>
+		
+	<fight id="10">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="5" level="11">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="5" level="11">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>
 </fights>

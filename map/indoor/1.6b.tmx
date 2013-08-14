@@ -119,9 +119,9 @@
   <object type="bot" gid="1027" x="80" y="112">
    <properties>
     <property name="file" value="../bots.xml"/>
-    <property name="id" value="1"/>
+    <property name="id" value="105"/>
     <property name="lookAt" value="top"/>
-    <property name="skin" value="mother"/>
+    <property name="skin" value="Dramed"/>
    </properties>
   </object>
  </objectgroup>

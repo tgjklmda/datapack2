@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwwENAAAMw6DOv+kLOSSsmqqqqu8ezqADhQ==
+   eJztyqERACAMBLAvo3T/IdmA4zCIRsSlktQHvc5u3+sHAACYbgMKPXnr
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlVEKgCAQRNeC8gBdoILoJNX1OmJ1kVaqnyBwdEkFHwz+KOPC7g4RhlJEpQIfCdCyZx/A94u1Cf2DC99/xFKHDRtrZx2W9ytWzdKevqbnC6Dvh/scPX1Nz3dA30v5ooTynVgza/nZVxrfGVQaUyYMKe3aFEHz4Y3rHKH5IAWaDynzzI5UpqMgGSc55ylmq0v9eTfGwQmiGxB8
+   eJztlVsOQDAQRTttggXYABKxEmzPEr324Qp+fDCjTWniJCd+ytWk06vUPaSV0kyNZnyQwfqtmfjrJ9re8UWX+su6wvY/vrIPDj0c4MhcH8EYJpa5tJ4taJjnsdyflWVuhrwcFp5zpbyVW8MGtp5zXWM7g5TI/HmHkO7aEJH2w5mncyTtB1dI+yFkjtlx1elSJB3ncs5D7NYn+//vxm+wAKDOEjM=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">

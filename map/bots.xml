@@ -16,14 +16,6 @@ skin is invisible
             <text lang="fr">...</text>
         </step>
     </bot>
-    <bot id="3">
-        <step id="1" type="text">
-            <text lang="en"><![CDATA[You are into dangerous zone.<br />
-			Here grow the root of the evil.<br />
-			<br />
-			Take care.]]></text>
-        </step>
-    </bot>
     <bot id="4">
         <step id="1" type="text">
             <text lang="en"><![CDATA[I can learn you some attack<br />
@@ -40,28 +32,49 @@ skin is invisible
             <text lang="en"><![CDATA[The bandit want I give you some plants.]]></text>
         </step>
     </bot>
-    <bot id="5">
-        <step fightid="1" id="1" type="fight"/>
-    </bot>
     <bot id="100">
         <step id="1" type="heal"/>
     </bot>
     <bot id="101">
-        <step id="1" shop="1" type="sell"/>
+        <step shop="1" id="1" type="sell"/>
     </bot>
     <bot id="201">
-        <step fightid="1" id="1" type="fight"/>
+        <step id="1" type="fight" fightid="1"/>
     </bot>
     <bot id="202">
-        <step fightid="2" id="1" type="fight"/>
+        <step id="1" type="fight" fightid="2"/>
     </bot>
     <bot id="203">
-        <step fightid="3" id="1" type="fight"/>
+        <step id="1" type="fight" fightid="3"/>
     </bot>
     <bot id="103">
         <step id="1" type="clan"/>
     </bot>
     <bot id="104">
         <step id="1" type="warehouse"/>
+    </bot>
+    <bot id="204">
+        <step id="1" type="fight" fightid="4"/>
+    </bot>
+    <bot id="205">
+        <step id="1" type="fight" fightid="5"/>
+    </bot>
+    <bot id="105">
+        <step id="1" type="learn"/>
+    </bot>
+    <bot id="206">
+        <step id="1" type="fight" fightid="6"/>
+    </bot>
+    <bot id="208">
+        <step id="1" type="fight" fightid="8"/>
+    </bot>
+    <bot id="209">
+        <step id="1" type="fight" fightid="9"/>
+    </bot>
+    <bot id="210">
+        <step id="1" type="fight" fightid="10"/>
+    </bot>
+    <bot id="207">
+        <step id="1" type="fight" fightid="7"/>
     </bot>
 </bots>

@@ -7,7 +7,7 @@ catch_rate="100"
 	<!-- ratio_gender: 0% only male, 100% only female, -1 no gender
 	second line is stat at level 100-->
 	<monster id="1" type="fire" height="0.76m" weight="45kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="300"
-		hp="230" attack="263" defense="190" special_attack="245" special_defense="170" speed="192" give_sp="100" give_xp="110" pow="1.2">
+		hp="150" attack="180" defense="140" special_attack="190" special_defense="170" speed="170" give_sp="100" give_xp="110" pow="1.2">
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
@@ -21,7 +21,7 @@ catch_rate="100"
 	<!-- ratio_gender: 0% only male, 100% only female, -1 no gender
 	second line is stat at level 100-->
 	<monster id="2" type="fly" type2="earth" height="0.2m" weight="2kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="300"
-	hp="185" attack="185" defense="200" special_attack="200" special_defense="180" speed="200" give_sp="100" give_xp="100" pow="1.2">
+	hp="130" attack="140" defense="150" special_attack="140" special_defense="160" speed="180" give_sp="100" give_xp="100" pow="1.2">
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
@@ -33,7 +33,7 @@ catch_rate="100"
 		<description lang="fr">Elofly</description>
 	</monster>
 	<monster id="3" type="plant" type2="earth" height="0.54m" weight="20kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="300"
-	hp="185" attack="220" defense="185" special_attack="220" special_defense="180" speed="190" give_sp="100" give_xp="100" pow="1.2">
+	hp="160" attack="180" defense="120" special_attack="190" special_defense="130" speed="120" give_sp="100" give_xp="100" pow="1.2">
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
@@ -45,7 +45,7 @@ catch_rate="100"
 		<description lang="fr">Conifeuille</description>
 	</monster>
 	<monster id="5" type="stone" type2="earth" height="1.56m" weight="56kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="300"
-	hp="210" attack="170" defense="240" special_attack="170" special_defense="260" speed="150" give_sp="100" give_xp="100" pow="1.2">
+	hp="200" attack="130" defense="180" special_attack="150" special_defense="240" speed="100" give_sp="100" give_xp="100" pow="1.2">
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
