@@ -30,7 +30,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlFEOwCAIQ939b7WT7XdZprTYsn3QxC9NHyAwRusrncf7ie6f7zJcxP/OUXF3jkMr7yrurNbNbS7CQHZIJbeyzrO4kDhZz8yuVHCROCIfV76rGjgU5ZzpNfZPK7mRt3K2mB52cZVvGT+mt6uZ6llyeDb3P9wdXREDud0=
+   eJztlFEOwCAIQ/X+t9rJ9ruYIRRptw+a8CXpQwXGaH2la76Hd77mZbgR/yeninsSDO28VVzrrZvb3AgjskOUXOU7W3VF6kQ9M7uymmudeT6s++5qZMi7c6bX0D9Vcj3vytlCepjFrcxF/JDeVjOrZ4nh2dz/cE90Axonud0=
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -60,7 +60,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzFltENwjAMRNM//ssmMAI7sAl0D6TSSaDjgSUsrOPsuKkqTopaqJPnOLGTUrhOO/5/35XyLLztO2ewiqIxtc1B/0eDH8Kck+xaU96YmOsETyaJvRd/qxGea7mRP//golq4h/faXAtvg7G/BN9auDZmOvYANmxM9s3ub29vs/hK/3vhaxDNhX3z7BlX/Z2JTW2+GKsl3MimxsVYyRxYrJHL6oetVTUuxor1Edl9PBA/UDKG3YOZta/t7ynJxT4qrNO6nzPcKI+lHbvfPjU/M9yl2oKbOQtYfLCGeXva47bK1sBM7RT7/uNX5pxV2ZqNORFxNWfnkpszjmF/Y05E3Ml5j7h27W3+oO9ZrpdH7LzzxGo25h/aZcZi9SGqq56fmTNfuJm8Qil3ad+196BM3Yi4GpPozuPV1RYu8rJ3D6sWriq688i8z0Hbgmtr4RbCdb5135xcwn0BccWnuA==
+   eJzFltENwjAMRNM//ssmMAI7sAl0DyToJNDxwBIW1nF2nKCKk6IW6uQ5TuykFK7Dhv8/DqU8Cm/bwRmsomhMbUvQ/97hhzCXJLvWlHdNzHWGJ5PE3ou/1RWev3Ijf/7BRfVwd6+1ORfeJmN/Cr71cG3MdOwJbNiY7Jvd397eZvGV/rfC1yCaC/vm2TOu+rsQm9p8MVYt3MimxsVYyRxYrJHL6oetVTUuxor1Edl9PBE/UDKG3YOZta/t7znJxT4qrNO6nzPcKI+l7YfvPjU/M9xWrc31zgUWH6xh3p7OcFtka2Cmdor9+PYrc86qbM3GnIi4mrNLyc0Zx7C/MSci7uy8R1y73jZ/0Pcs18sjdt55YjUb8w/tMmOx+hDVVc/PzJkv3MwdC6Xc1r6/3oMydSPiakyiO49XV3u4yMvePax6uKroziPzPgZtDa6thWsI1/kyfHKyhfsEbjWnuA==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
@@ -82,6 +82,64 @@
     <property name="map" value="../cave/3.5a"/>
     <property name="x" value="18"/>
     <property name="y" value="21"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object name="bot" type="bot" gid="5123" x="192" y="192">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="219"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="320" y="64">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="220"/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="240" y="192">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="221"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="256" y="320">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="219"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="400" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="219"/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="128" y="256">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="220"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="208" y="400">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="222"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="player"/>
    </properties>
   </object>
  </objectgroup>

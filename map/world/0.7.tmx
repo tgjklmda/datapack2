@@ -115,5 +115,12 @@
     <property name="y" value="3"/>
    </properties>
   </object>
+  <object name="door" type="door" gid="5123" x="144" y="448">
+   <properties>
+    <property name="map" value="../indoor/0.7b"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

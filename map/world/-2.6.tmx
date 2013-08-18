@@ -107,32 +107,32 @@
    <properties>
     <property name="file" value="../bots.xml"/>
     <property name="id" value="212"/>
-    <property name="lookAt" value=""/>
-    <property name="skin" value=""/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="player"/>
    </properties>
   </object>
   <object name="bot" type="bot" gid="5123" x="304" y="432">
    <properties>
     <property name="file" value="../bots.xml"/>
     <property name="id" value="211"/>
-    <property name="lookAt" value=""/>
-    <property name="skin" value=""/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="girl"/>
    </properties>
   </object>
   <object name="bot" type="bot" gid="5123" x="304" y="320">
    <properties>
     <property name="file" value="../bots.xml"/>
     <property name="id" value="213"/>
-    <property name="lookAt" value=""/>
-    <property name="skin" value=""/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="girlplayer"/>
    </properties>
   </object>
   <object name="bot" type="bot" gid="5123" x="320" y="256">
    <properties>
     <property name="file" value="../bots.xml"/>
     <property name="id" value="214"/>
-    <property name="lookAt" value=""/>
-    <property name="skin" value=""/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="girl"/>
    </properties>
   </object>
  </objectgroup>

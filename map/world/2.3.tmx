@@ -56,12 +56,12 @@
  </layer>
  <layer name="Water" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwwEJAAAIA7BXEOyf9QVMIBssAQAAuM36eQFq0BFZ
+   eJxjYBgFo2AUjIJRMApGwSgYBaNgeABBEQSmt33omFrmkmInqXYTY9YoHt4YAA29FdQ=
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzjENADAMBLEPyhZr0ZVElCy2dPslAECXW8mp7QuAPm8pZnyihhZ+
+   eJxjYBgFo2AUjIJRMApGAbVABCMDQzjjQLtiFIyCkQt2AvEuIN5NZ/usofneipE69uPzx04k+9AByH5S7IbZA8Po/sAmhwtg04MLEzJrFNAPAACWphiV
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">
@@ -101,5 +101,55 @@
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="240" y="256"/>
+ </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object name="bot" type="bot" gid="5123" x="208" y="32">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="101"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="market"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="272" y="32">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="101"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="market"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="208" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="101"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="market"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="144" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="101"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="market"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="240" y="288">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="3"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="girl"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="272" y="384">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="3"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="girl2"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

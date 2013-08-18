@@ -4,20 +4,20 @@ skin is invisible
 -->
 <bots>
     <bot id="1">
-        <step id="1" type="text">
+        <step type="text" id="1">
             <text lang="en"><![CDATA[Hello world!]]></text>
         </step>
-        <step id="1" type="text">
+        <step type="text" id="1">
             <text lang="en">Hello !</text>
             <text lang="fr">Salut !</text>
         </step>
-        <step id="2" type="text">
+        <step type="text" id="2">
             <text lang="en">...</text>
             <text lang="fr">...</text>
         </step>
     </bot>
     <bot id="4">
-        <step id="1" type="text">
+        <step type="text" id="1">
             <text lang="en"><![CDATA[I can learn you some attack<br />
 			<br />
 			<center>
@@ -25,56 +25,131 @@ skin is invisible
 				<a href="3">Quest</a><br />
 			</center>]]></text>
         </step>
-        <step id="2" type="learn"/>
-        <step id="3" type="quests"/>
+        <step type="learn" id="2"/>
+        <step type="quests" id="3"/>
         <!-- show the default failure text if failed -->
-        <step id="10" type="text">
+        <step type="text" id="10">
             <text lang="en"><![CDATA[The bandit want I give you some plants.]]></text>
         </step>
     </bot>
     <bot id="100">
-        <step id="1" type="heal"/>
+        <step type="heal" id="1"/>
     </bot>
     <bot id="101">
-        <step shop="1" id="1" type="sell"/>
+        <step type="sell" id="1" shop="1"/>
     </bot>
     <bot id="201">
-        <step id="1" type="fight" fightid="1"/>
+        <step type="fight" id="1" fightid="1"/>
     </bot>
     <bot id="202">
-        <step id="1" type="fight" fightid="2"/>
+        <step type="fight" id="1" fightid="2"/>
     </bot>
     <bot id="203">
-        <step id="1" type="fight" fightid="3"/>
+        <step type="fight" id="1" fightid="3"/>
     </bot>
     <bot id="103">
-        <step id="1" type="clan"/>
+        <step type="clan" id="1"/>
     </bot>
     <bot id="104">
-        <step id="1" type="warehouse"/>
+        <step type="warehouse" id="1"/>
     </bot>
     <bot id="204">
-        <step id="1" type="fight" fightid="4"/>
+        <step type="fight" id="1" fightid="4"/>
     </bot>
     <bot id="205">
-        <step id="1" type="fight" fightid="5"/>
+        <step type="fight" id="1" fightid="5"/>
     </bot>
     <bot id="105">
-        <step id="1" type="learn"/>
+        <step type="learn" id="1"/>
     </bot>
     <bot id="206">
-        <step id="1" type="fight" fightid="6"/>
+        <step type="fight" id="1" fightid="6"/>
     </bot>
     <bot id="208">
-        <step id="1" type="fight" fightid="8"/>
+        <step type="fight" id="1" fightid="8"/>
     </bot>
     <bot id="209">
-        <step id="1" type="fight" fightid="9"/>
+        <step type="fight" id="1" fightid="9"/>
     </bot>
     <bot id="210">
-        <step id="1" type="fight" fightid="10"/>
+        <step type="fight" id="1" fightid="10"/>
     </bot>
     <bot id="207">
-        <step id="1" type="fight" fightid="7"/>
+        <step type="fight" id="1" fightid="7"/>
+    </bot>
+    <bot id="211">
+        <step type="fight" id="1" fightid="11"/>
+    </bot>
+    <bot id="212">
+        <step type="fight" id="1" fightid="12"/>
+    </bot>
+    <bot id="213">
+        <step type="fight" id="1" fightid="13"/>
+    </bot>
+    <bot id="214">
+        <step type="fight" id="1" fightid="214"/>
+    </bot>
+    <bot id="215">
+        <step type="fight" id="1" fightid="15"/>
+    </bot>
+    <bot id="216">
+        <step type="fight" id="1" fightid="16"/>
+    </bot>
+    <bot id="217">
+        <step type="fight" id="1" fightid="17"/>
+    </bot>
+    <bot id="218">
+        <step type="fight" id="1" fightid="18"/>
+    </bot>
+    <bot id="219">
+        <step type="fight" id="1" fightid="19"/>
+    </bot>
+    <bot id="220">
+        <step type="fight" id="1" fightid="20"/>
+    </bot>
+    <bot id="221">
+        <step type="fight" id="1" fightid="21"/>
+    </bot>
+    <bot id="222">
+        <step type="fight" id="1" fightid="22"/>
+    </bot>
+    <bot id="223">
+        <step type="fight" id="1" fightid="23"/>
+    </bot>
+    <bot id="224">
+        <step type="fight" id="1" fightid="24"/>
+    </bot>
+    <bot id="225">
+        <step type="fight" id="1" fightid="25"/>
+    </bot>
+    <bot id="226">
+        <step type="fight" id="1" fightid="26"/>
+    </bot>
+    <bot id="227">
+        <step type="fight" id="1" fightid="27"/>
+    </bot>
+    <bot id="228">
+        <step type="fight" id="1" fightid="28"/>
+    </bot>
+    <bot id="229">
+        <step type="fight" id="1" fightid="29"/>
+    </bot>
+    <bot id="230">
+        <step type="fight" id="1" fightid="30"/>
+    </bot>
+    <bot id="2">
+        <step type="text" id="1">
+            <text lang="en">Welcome to Mersoul !</text>
+            <text lang="fr">Bienvenue à Mersoul</text>
+        </step>
+    </bot>
+    <bot id="3">
+        <step type="text" id="1">
+            <text lang="en">I like the sea</text>
+            <text lang="fr">Que j'aime la mer</text>
+        </step>
+    </bot>
+    <bot id="231">
+        <step type="fight" id="1" fightid="31"/>
     </bot>
 </bots>

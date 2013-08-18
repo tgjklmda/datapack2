@@ -102,4 +102,30 @@
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="240" y="256"/>
  </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object name="bot" type="bot" gid="5123" x="336" y="256">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="215"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="336" y="336">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="215"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="96" y="448">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="216"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>

@@ -2,7 +2,7 @@
 	<name lang="en">Cave</name>
 	<name lang="fr">Grotte</name>
 	<grass>
-          <monster id="5" minLevel="6" maxLevel="8" luck="100" />
+          <monster id="5" minLevel="7" maxLevel="9" luck="100" />
   </grass>
 	<wather></wather>
 </map>
