@@ -1,33 +1,35 @@
 <items>
-	<item id="1" price="200">
-		<name>Craftball</name>
-		<name lang="fr">Craftball</name>
-		<description>The craftball is perfect to capture a very low level monsters.</description>
-		<description lang="fr">La craft ball est parfaite pour capturer les monstres de trés bas niveaux.</description>
-	</item>
 	
-	<item id="2" price="500">
+
+  <item id="1" price="200" image="crafttrap/Craftball.png">
+     <name>Craftball</name>
+     <name lang="fr">Craftball</name>
+     <description>The craftball is perfect to capture a very low level monsters.</description>
+     <description lang="fr">La craft ball est parfaite pour capturer les monstres de trés bas niveaux.</description>
+   </item>
+
+	<item id="2" price="500" image="crafttrap/Craftball.png">
 		<name>Superball</name>
 		<name lang="fr">Superball</name>
 		<description>The super Superball is perfect to capture a low level monsters.</description>
 		<description lang="fr">La Super ball est parfaite pour capturer les monstres de bas niveaux.</description>
 	</item>
 	
-	<item id="3" price="1000">
+	<item id="3" price="1000" image="crafttrap/Craftball.png">
 		<name>Hyperball</name>
 		<name lang="fr">Hyperball</name>
 		<description>The hyperball is perfect to capture a mid level monsters.</description>
 		<description lang="fr">La hyper ball est parfaite pour capturer les monstres de niveaux moyen.</description>
 	</item>
 	
-	<item id="4" price="2000">
+	<item id="4" price="2000" image="crafttrap/Craftball.png">
 		<name>Extraball</name>
 		<name lang="fr">Extraball</name>
 		<description>The Extraball is perfect to capture a hight level monsters.</description>
 		<description lang="fr">La Extra ball est parfaite pour capturer les monstres de haut niveaux.</description>
 	</item>
 	
-	<item id="5" price="300">
+	<item id="5" price="300" image="crafttrap/Craftball.png">
 		<name>Potion</name>
 		<name lang="fr">Potion</name>
 		<description>The Superpotion used for very low heal monsters.</description>
@@ -40,7 +42,7 @@
 		</effect>
 	</item>
 	
-	<item id="6" price="500">
+	<item id="6" price="500" image="crafttrap/Craftball.png">
 		<name>Superpotion</name>
 		<name lang="fr">Superpotion</name>
 		<description>The Superpotion used for low heal monsters.</description>
@@ -53,7 +55,7 @@
 		</effect>
 	</item>
 	
-	<item id="7" price="750">
+	<item id="7" price="750" image="crafttrap/Craftball.png">
 		<name>Hyperpotion</name>
 		<name lang="fr">Hyperpotion</name>
 		<description>The Hyperpotion used for heal monsters.</description>
@@ -66,7 +68,7 @@
 		</effect>
 	</item>	
 	
-	<item id="8" price="1500">
+	<item id="8" price="1500" image="crafttrap/Craftball.png">
 		<name>Potionmax</name>
 		<name lang="fr">Potionmax</name>
 		<description>The Potionmax used for heal monsters.</description>
@@ -79,7 +81,7 @@
 		</effect>
 	</item>	
 	
-		<item id="9" price="250">
+		<item id="9" price="250" image="crafttrap/Craftball.png">
 		<name>Reppousse</name>
 		<name lang="fr">Reppousse</name>
 		<description>The Reppousse used for Reppousse monsters during 100 step.</description>
@@ -89,7 +91,7 @@
 		</effect>
 	</item>	
 	
-	<item id="10" price="500">
+	<item id="10" price="500" image="crafttrap/Craftball.png">
 		<name>Superreppousse</name>
 		<name lang="fr">Superreppousse</name>
 		<description>The Superreppousse used for Reppousse monsters during 250 step.</description>
@@ -99,7 +101,7 @@
 		</effect>
 	</item>	
 	
-	<item id="11" price="750">
+	<item id="11" price="750" image="crafttrap/Craftball.png">
 		<name>Hyperreppousse</name>
 		<name lang="fr">Hyperreppousse</name>
 		<description>The Hyperreppousse used for Reppousse monsters during 500 step.</description>

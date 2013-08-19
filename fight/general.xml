@@ -153,7 +153,8 @@
 		<gain cash="100" />
 	</fight>
 		
-  <fight id="14">
+	
+	<fight id="14">
 		<start lang="en"><![CDATA[Ready for the fight?]]></start>
 		<win lang="en"><![CDATA[You are so strong for me!]]></win>
 		<monster id="5" level="12">
@@ -164,7 +165,7 @@
 			<attack id="3" />
 			<attack id="4" />
 		</monster>
-		<monster id="2" level="12">
+		<monster id="4" level="12">
 			<attack id="3" />
 			<attack id="4" />
 		</monster>
@@ -355,7 +356,82 @@
 		<gain cash="900" />
 	</fight>
 	
+	<fight id="27">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="6" level="14">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="6" level="15">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>
 	
+	<fight id="28">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="6" level="17">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>
 	
+	<fight id="29">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="6" level="14">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="6" level="14">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="6" level="14">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="6" level="14">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>
+	
+	<fight id="30">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="6" level="18">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="100" />
+	</fight>	
+
+	<fight id="31">
+		<start lang="en"><![CDATA[Ready for the fight?]]></start>
+		<win lang="en"><![CDATA[You are so strong for me!]]></win>
+		<monster id="6" level="15">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="6" level="16">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="6" level="17">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<monster id="9" level="21">
+			<attack id="3" />
+			<attack id="4" />
+		</monster>
+		<gain cash="1500" />
+	</fight>	
 </fights>
 

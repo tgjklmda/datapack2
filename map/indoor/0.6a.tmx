@@ -124,5 +124,133 @@
     <property name="skin" value="guardian"/>
    </properties>
   </object>
+  <object name="bot" type="bot" gid="1027" x="64" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="80" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="96" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="48" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="96" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="80" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="64" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="48" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="464" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="448" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="432" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="416" y="128">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="432" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="448" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="464" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="1027" x="416" y="240">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="106"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

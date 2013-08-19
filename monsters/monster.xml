@@ -56,8 +56,30 @@ catch_rate="100"
 		<description lang="en">Polyrock</description>
 		<description lang="fr">Polyrock</description>
 	</monster>
-	
-	
+	<monster id="6" type="water" height="0.76m" weight="45kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="300"
+		hp="150" attack="180" defense="140" special_attack="190" special_defense="170" speed="170" give_sp="100" give_xp="110" pow="1.2">
+		<attack_list>
+			<!-- if level is 0, it's base attack, default: attack_level="1" -->
+			<attack level="0" id="3" />
+			<attack level="20" id="1" attack_level="2"/>
+		</attack_list>		
+		<name lang="en">Dinoflop</name>
+		<name lang="fr">Dinoflop</name>
+		<description lang="en">Dinoflop use water for protect himsell.</description>
+		<description lang="fr">Dinoflop utilise l"eau afin de ce protége.</description>
+	</monster>
+<monster id="9" type="water" height="0.76m" weight="45kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="300"
+		hp="150" attack="180" defense="140" special_attack="190" special_defense="170" speed="170" give_sp="100" give_xp="110" pow="1.2">
+		<attack_list>
+			<!-- if level is 0, it's base attack, default: attack_level="1" -->
+			<attack level="0" id="3" />
+			<attack level="20" id="1" attack_level="2"/>
+		</attack_list>		
+		<name lang="en">Trompeau</name>
+		<name lang="fr">Trompeau</name>
+		<description lang="en">Trompeau use water for protect himsell.</description>
+		<description lang="fr">Trompeau utilise l"eau afin de ce protége.</description>
+	</monster>
 	
 	
 	
