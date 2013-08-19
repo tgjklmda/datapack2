@@ -165,7 +165,7 @@
 			<attack id="3" />
 			<attack id="4" />
 		</monster>
-		<monster id="4" level="12">
+		<monster id="2" level="12">
 			<attack id="3" />
 			<attack id="4" />
 		</monster>

@@ -78,27 +78,27 @@
  </tileset>
  <layer name="Walkable" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxbzMDAsBiI2YnAi6FYnQjcOIoHDSYFAACIATYO
+   eJxbzMDAsBiI2YnAi6FYnQi8cBQPGkwKAABUNUJu
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYCAdzOBgYJjJQbocvUEsDdxBCzNxgVeMDAzyQFqBCDdwMTEwxAPpBArtBAA0GwWn
+   eJxjYCAe6EAxpWpGAXHgFSMDgzyQViBCLRcTA4MdFewEANqAAiU=
   </data>
  </layer>
  <layer name="Collisions" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYEAF7FgwLqCOhNEBTG8FBwNDJQdEzA5I7wfieiCO40DI4TIDG7CD6qcWAJlnT0XzyHUDqX4SYiFe3WIG4jEA7q4ORQ==
+   eJzjYWBg4CES3+NmaABhHSAbFwbKg/E/oDoQZsAD/kHUUQ3YcTAw7Afieg7S9U5nQcX45LajYWSAT46aQIhIs0HqFjMQjwEIHB7y
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYCAd3OBgYLjJQZzcDiB7Jw61+OQoAXJAM+VpYO5gAkIs1FUHAwCdTQb+
+   eJxjYBgFQxEIsVBXHQwAAA24AC0=
   </data>
  </layer>
  <layer name="WalkBehind" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYCAdRHAwMERyQNhyQHo+EMdzYMqBwA8g+ycHphnIcrJALI9DDTqwJUJdGAsDQzgLceaVAdWVE6mWFCBHgp/IAUVEuplYdTAAAI0qCi0=
+   eJxjYMAEoixYBHEAUxLUkgPkOBgY5gNxPAdt7RlqoIjIcCdWHQwAAI6OAnM=
   </data>
  </layer>
  <layer name="other" width="11" height="12">
@@ -114,11 +114,14 @@
     <property name="y" value="23"/>
    </properties>
   </object>
-  <object name="teleport on push" type="teleport on push" gid="1027" x="96" y="192">
+ </objectgroup>
+ <objectgroup name="Object" width="11" height="12">
+  <object name="bot" type="bot" gid="1027" x="80" y="48">
    <properties>
-    <property name="map" value="../world/0.0"/>
-    <property name="x" value="9"/>
-    <property name="y" value="23"/>
+    <property name="file" value="../botst.xml"/>
+    <property name="id" value="1"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="prof"/>
    </properties>
   </object>
  </objectgroup>

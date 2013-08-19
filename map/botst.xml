@@ -1,0 +1,31 @@
+<!--
+default:
+skin is invisible
+-->
+<bots>
+    <bot id="1">
+        <step type="text" id="1">
+            <text lang="en"><![CDATA[Hello world!]]></text>
+        </step>
+        <step type="text" id="1">
+            <text lang="en">Hello !</text>
+            <text lang="fr">Salut !</text>
+        </step>
+        <step type="text" id="2">
+            <text lang="en">...</text>
+            <text lang="fr">...</text>
+        </step>
+    </bot>
+    <bot id="2">
+        <step type="text" id="1">
+            <text lang="en">Welcome to Mersoul !</text>
+            <text lang="fr">Bienvenue à Mersoul</text>
+        </step>
+    </bot>
+    <bot id="3">
+        <step type="text" id="1">
+            <text lang="en">I like the sea</text>
+            <text lang="fr">Que j'aime la mer</text>
+        </step>
+    </bot>
+</bots>

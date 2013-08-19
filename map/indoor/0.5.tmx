@@ -139,7 +139,7 @@
  <objectgroup name="Object" width="11" height="12">
   <object type="bot" gid="1027" x="128" y="112">
    <properties>
-    <property name="file" value="../bots.xml"/>
+    <property name="file" value="../botst.xml"/>
     <property name="id" value="1"/>
     <property name="lookAt" value="left"/>
     <property name="skin" value="guardian"/>

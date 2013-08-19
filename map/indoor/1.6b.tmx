@@ -118,8 +118,8 @@
  <objectgroup name="Object" width="11" height="12">
   <object type="bot" gid="1027" x="80" y="112">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="105"/>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="2"/>
     <property name="lookAt" value="top"/>
     <property name="skin" value="Dramed"/>
    </properties>

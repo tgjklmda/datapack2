@@ -131,32 +131,32 @@
  <objectgroup name="Object" width="15" height="15">
   <object type="bot" gid="1027" x="144" y="64">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="229"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="29"/>
     <property name="lookAt" value="bottom"/>
     <property name="skin" value="player"/>
    </properties>
   </object>
   <object type="bot" gid="1027" x="192" y="176">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="230"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="30"/>
     <property name="lookAt" value="left"/>
     <property name="skin" value="player"/>
    </properties>
   </object>
   <object type="bot" gid="1027" x="16" y="48">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="231"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="31"/>
     <property name="lookAt" value="top"/>
     <property name="skin" value="player"/>
    </properties>
   </object>
   <object type="bot" gid="1027" x="208" y="48">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="227"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="27"/>
     <property name="lookAt" value="left"/>
     <property name="skin" value="player"/>
    </properties>
@@ -171,24 +171,24 @@
   </object>
   <object type="bot" gid="1027" x="16" y="192">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="228"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="28"/>
     <property name="lookAt" value="top"/>
     <property name="skin" value="player"/>
    </properties>
   </object>
   <object type="bot" gid="1027" x="16" y="224">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="227"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="27"/>
     <property name="lookAt" value="top"/>
     <property name="skin" value="player"/>
    </properties>
   </object>
   <object type="bot" gid="1027" x="192" y="112">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="228"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="28"/>
     <property name="lookAt" value="right"/>
     <property name="skin" value="player"/>
    </properties>

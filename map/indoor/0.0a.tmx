@@ -121,10 +121,10 @@
     <property name="y" value="15"/>
    </properties>
   </object>
-  <object name="teleport on push" type="teleport on push" gid="1027" x="144" y="48">
+  <object name="teleport on push" type="teleport on push" gid="1027" x="160" y="48">
    <properties>
     <property name="map" value="../indoor/0.0a2"/>
-    <property name="x" value="8"/>
+    <property name="x" value="9"/>
     <property name="y" value="2"/>
    </properties>
   </object>
@@ -132,8 +132,8 @@
  <objectgroup name="Object" width="11" height="12">
   <object type="bot" gid="1027" x="64" y="128">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="100"/>
+    <property name="file" value="../botst.xml"/>
+    <property name="id" value="1"/>
     <property name="lookAt" value="left"/>
     <property name="skin" value="mother"/>
    </properties>

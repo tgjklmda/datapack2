@@ -11,7 +11,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="20" id="1" attack_level="2"/>
+			<attack level="8" id="1" attack_level="1"/>
 		</attack_list>		
 		<name lang="en">Liondefeu</name>
 		<name lang="fr">Firelion</name>
@@ -25,7 +25,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="10" id="3" attack_level="2" />
+			<attack level="8" id="3" attack_level="1" />
 		</attack_list>		
 		<name lang="en">Elofly</name>
 		<name lang="fr">Elofly</name>
@@ -37,7 +37,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="10" id="3" attack_level="2" />
+			<attack level="8" id="3" attack_level="1" />
 		</attack_list>		
 		<name lang="en">Conifeuille</name>
 		<name lang="fr">Conifeuille</name>
@@ -49,7 +49,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="10" id="3" attack_level="2" />
+			<attack level="8" id="3" attack_level="1" />
 		</attack_list>		
 		<name lang="en">Polyrock</name>
 		<name lang="fr">Polyrock</name>
@@ -61,7 +61,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="20" id="1" attack_level="2"/>
+			<attack level="8" id="1" attack_level="1"/>
 		</attack_list>		
 		<name lang="en">Dinoflop</name>
 		<name lang="fr">Dinoflop</name>
@@ -73,7 +73,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="20" id="1" attack_level="2"/>
+			<attack level="8" id="1" attack_level="1"/>
 		</attack_list>		
 		<name lang="en">Trompeau</name>
 		<name lang="fr">Trompeau</name>

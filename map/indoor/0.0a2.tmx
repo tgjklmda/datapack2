@@ -109,10 +109,10 @@
   </data>
  </layer>
  <objectgroup name="Moving" width="11" height="12">
-  <object name="teleport on push" type="teleport on push" gid="1027" x="144" y="48">
+  <object name="teleport on push" type="teleport on push" gid="1027" x="160" y="48">
    <properties>
     <property name="map" value="../indoor/0.0a"/>
-    <property name="x" value="8"/>
+    <property name="x" value="9"/>
     <property name="y" value="2"/>
    </properties>
   </object>

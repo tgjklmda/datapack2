@@ -1,0 +1,25 @@
+<!--
+default:
+skin is invisible
+-->
+<bots>
+    <bot id="1">
+        <step id="1" type="heal"/>
+    </bot>
+    <bot id="2">
+        <step id="1" type="learn"/>
+    </bot>
+    <bot id="3">
+        <step id="1" type="warehouse"/>
+    </bot>
+    <bot id="4">
+        <step id="1" type="industry" factory_id="1"/>
+    </bot>
+    <bot id="5">
+        <step id="1" type="sell" shop="1"/>
+    </bot>
+    <bot id="100">
+        <step id="1" type="shop" shop="1"/>
+        <step id="2" type="sell" shop="1"/>
+    </bot>
+</bots>

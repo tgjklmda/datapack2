@@ -1,0 +1,99 @@
+<!--
+default:
+skin is invisible
+-->
+<bots>
+    <bot id="1">
+        <step fightid="1" type="fight" id="1"/>
+    </bot>
+    <bot id="2">
+        <step fightid="2" type="fight" id="1"/>
+    </bot>
+    <bot id="3">
+        <step fightid="3" type="fight" id="1"/>
+    </bot>
+    <bot id="4">
+        <step fightid="4" type="fight" id="1"/>
+    </bot>
+    <bot id="5">
+        <step fightid="5" type="fight" id="1"/>
+    </bot>
+    <bot id="6">
+        <step fightid="6" type="fight" id="1"/>
+    </bot>
+    <bot id="8">
+        <step fightid="8" type="fight" id="1"/>
+    </bot>
+    <bot id="9">
+        <step fightid="9" type="fight" id="1"/>
+    </bot>
+    <bot id="10">
+        <step fightid="10" type="fight" id="1"/>
+    </bot>
+    <bot id="7">
+        <step fightid="7" type="fight" id="1"/>
+    </bot>
+    <bot id="11">
+        <step fightid="11" type="fight" id="1"/>
+    </bot>
+    <bot id="12">
+        <step fightid="12" type="fight" id="1"/>
+    </bot>
+    <bot id="13">
+        <step fightid="13" type="fight" id="1"/>
+    </bot>
+    <bot id="14">
+        <step fightid="214" type="fight" id="1"/>
+    </bot>
+    <bot id="15">
+        <step fightid="15" type="fight" id="1"/>
+    </bot>
+    <bot id="16">
+        <step fightid="16" type="fight" id="1"/>
+    </bot>
+    <bot id="17">
+        <step fightid="17" type="fight" id="1"/>
+    </bot>
+    <bot id="18">
+        <step fightid="18" type="fight" id="1"/>
+    </bot>
+    <bot id="19">
+        <step fightid="19" type="fight" id="1"/>
+    </bot>
+    <bot id="20">
+        <step fightid="20" type="fight" id="1"/>
+    </bot>
+    <bot id="21">
+        <step fightid="21" type="fight" id="1"/>
+    </bot>
+    <bot id="22">
+        <step fightid="22" type="fight" id="1"/>
+    </bot>
+    <bot id="23">
+        <step fightid="23" type="fight" id="1"/>
+    </bot>
+    <bot id="24">
+        <step fightid="24" type="fight" id="1"/>
+    </bot>
+    <bot id="25">
+        <step fightid="25" type="fight" id="1"/>
+    </bot>
+    <bot id="26">
+        <step fightid="26" type="fight" id="1"/>
+    </bot>
+    <bot id="27">
+        <step fightid="27" type="fight" id="1"/>
+    </bot>
+    <bot id="28">
+        <step fightid="28" type="fight" id="1"/>
+    </bot>
+    <bot id="29">
+        <step fightid="29" type="fight" id="1"/>
+    </bot>
+    <bot id="30">
+        <step fightid="30" type="fight" id="1"/>
+    </bot>
+    <bot id="31">
+        <step fightid="31" type="fight" id="1"/>
+    </bot>
+</bots>

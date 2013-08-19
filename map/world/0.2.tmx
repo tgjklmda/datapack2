@@ -207,4 +207,14 @@
    </properties>
   </object>
  </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object name="bot" type="bot" gid="5123" x="288" y="336">
+   <properties>
+    <property name="file" value="../botst.xml"/>
+    <property name="id" value="1"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>

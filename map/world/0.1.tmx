@@ -100,8 +100,8 @@
  <objectgroup name="Object" width="30" height="30">
   <object type="bot" gid="5123" x="256" y="32">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="201"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="1"/>
     <property name="lookAt" value="left"/>
     <property name="skin" value="girlplayer"/>
    </properties>

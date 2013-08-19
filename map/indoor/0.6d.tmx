@@ -118,32 +118,40 @@
  <objectgroup name="Object" width="11" height="12">
   <object type="bot" gid="1027" x="32" y="112">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="104"/>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="3"/>
     <property name="lookAt" value="bottom"/>
     <property name="skin" value="bankier"/>
    </properties>
   </object>
-  <object type="bot" gid="1027" x="48" y="112">
+  <object type="bot" gid="1027" x="32" y="112">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="104"/>
-    <property name="lookAt" value="bottom"/>
-    <property name="skin" value="bankier"/>
-   </properties>
-  </object>
-  <object type="bot" gid="1027" x="128" y="112">
-   <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="104"/>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="3"/>
     <property name="lookAt" value="bottom"/>
     <property name="skin" value="bankier"/>
    </properties>
   </object>
   <object type="bot" gid="1027" x="112" y="112">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="104"/>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="3"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="bankier"/>
+   </properties>
+  </object>
+  <object type="bot" gid="1027" x="48" y="112">
+   <properties>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="3"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="bankier"/>
+   </properties>
+  </object>
+  <object type="bot" gid="1027" x="128" y="112">
+   <properties>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="3"/>
     <property name="lookAt" value="bottom"/>
     <property name="skin" value="bankier"/>
    </properties>

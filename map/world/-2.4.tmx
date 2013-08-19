@@ -105,24 +105,24 @@
  <objectgroup name="Object" width="30" height="30">
   <object name="bot" type="bot" gid="5123" x="224" y="320">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="206"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="6"/>
     <property name="lookAt" value="right"/>
     <property name="skin" value="girlplayer"/>
    </properties>
   </object>
   <object name="bot" type="bot" gid="5123" x="368" y="32">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="208"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="8"/>
     <property name="lookAt" value="left"/>
     <property name="skin" value="terranite"/>
    </properties>
   </object>
   <object name="bot" type="bot" gid="5123" x="160" y="160">
    <properties>
-    <property name="file" value="../bots.xml"/>
-    <property name="id" value="207"/>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="7"/>
     <property name="lookAt" value="right"/>
     <property name="skin" value="player"/>
    </properties>

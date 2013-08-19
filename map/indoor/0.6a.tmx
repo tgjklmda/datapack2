@@ -118,7 +118,7 @@
  <objectgroup name="Object" width="33" height="20">
   <object name="bot" type="bot" gid="1027" x="256" y="240">
    <properties>
-    <property name="file" value="../bots.xml"/>
+    <property name="file" value="../botst.xml"/>
     <property name="id" value="1"/>
     <property name="lookAt" value="bottom"/>
     <property name="skin" value="guardian"/>
