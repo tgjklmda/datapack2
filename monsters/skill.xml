@@ -13,7 +13,7 @@ sp="0", can't be learn naturaly
 		<description lang="fr">Puissant coup de poing en feu</description>
 		<effect>
 			<level number="1" sp="100">
-				<life quantity="-100" applyOn="aloneEnemy" />
+				<life quantity="-25" applyOn="aloneEnemy" />
 				<buff id="1" applyOn="aloneEnemy" />
 			</level>
 			<level number="2" sp="200">
@@ -39,8 +39,8 @@ sp="0", can't be learn naturaly
 		<description lang="en">Tackle the enemy</description>
 		<description lang="fr">Charge l'ennemie</description>
 		<effect>
-			<level number="1" sp="100">
-				<life quantity="-40" applyOn="aloneEnemy" />
+			<level number="1" sp="10">
+				<life quantity="-20" applyOn="aloneEnemy" />
 				<buff id="3" success="5%" applyOn="allEnemy" />
 			</level>
 			<level number="2">
@@ -55,7 +55,7 @@ sp="0", can't be learn naturaly
 		<description lang="en">Up armor</description>
 		<description lang="fr">Augmente l'armure</description>
 		<effect>
-			<level number="1" sp="100">
+			<level number="1" sp="10">
 				<buff id="2" applyOn="allAlly" />
 			</level>
 		</effect>

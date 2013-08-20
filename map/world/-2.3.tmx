@@ -21,7 +21,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgF1AAPgfgxlC3CR57+R0hmEAsYGRkYmBkhbBMy7AXpZ0IygxBYxINpbwgZ9ioC9SoBsTKR9sIAsr0wt9ADKCK59RAd7aUVyAbiHDScSwd7u4HYE4jXIOG1VDJ7oggqjW5vL5XsIdZOWtpLCIzaO2ovPvAIDWOrd7CVEVlAnIlFnNiyRIkRFWMr/1czoJYPIOzFgFluYMPUKktgYKjG76i9g8deSvIRJfUyJfmI2nlpoOIXFAbULhOGMwAAampH9Q==
+   eJxjYBgF1AAPgfgxlC3CR57+R0hmEAsYGRkYmBkhbBMy7AXpZ0IygxBYxINpbwgZ9ioC9SoBsTKR9sIAsr0wt9ADKCK59RAJ9k4UoY17KLUzG4hz0HAuTV0FAd1A7AnEa5DwWiqZDfM3Nv+D7O2lkj3E2klLewmBUXtH7cUHHqFhbPUOtjIiC4gzsYgTW5YoMaJibOX/agbU8gGEvRgwyw1smFplCQwM1fgdtXfw2EtJPqKkXqYkHyHnJWq0YQiFMzXswGYGKAzWElAzChAAAKtFS9M=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -136,7 +136,7 @@
     <property name="file" value="../botst.xml"/>
     <property name="id" value="1"/>
     <property name="lookAt" value="bottom"/>
-    <property name="skin" value="player"/>
+    <property name="skin" value="oldman"/>
    </properties>
   </object>
   <object name="bot" type="bot" gid="5123" x="288" y="320">
@@ -152,7 +152,7 @@
     <property name="file" value="../botst.xml"/>
     <property name="id" value="1"/>
     <property name="lookAt" value="left"/>
-    <property name="skin" value="player"/>
+    <property name="skin" value="john"/>
    </properties>
   </object>
   <object name="bot" type="bot" gid="5123" x="128" y="400">

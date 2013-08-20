@@ -197,7 +197,7 @@
   <object name="door" type="door" gid="5123" x="176" y="128">
    <properties>
     <property name="map" value="../indoor/0.6a"/>
-    <property name="x" value="3"/>
+    <property name="x" value="16"/>
     <property name="y" value="18"/>
    </properties>
   </object>
@@ -238,7 +238,7 @@
     <property name="file" value="../botst.xml"/>
     <property name="id" value="1"/>
     <property name="lookAt" value="bottom"/>
-    <property name="skin" value="john"/>
+    <property name="skin" value="oldman"/>
    </properties>
   </object>
  </objectgroup>
