@@ -39,7 +39,7 @@ sp="0", can't be learn naturaly
 		<description lang="en">Tackle the enemy</description>
 		<description lang="fr">Charge l'ennemie</description>
 		<effect>
-			<level number="1" sp="10">
+			<level number="1" sp="100">
 				<life quantity="-20" applyOn="aloneEnemy" />
 				<buff id="3" success="5%" applyOn="allEnemy" />
 			</level>
@@ -55,7 +55,7 @@ sp="0", can't be learn naturaly
 		<description lang="en">Up armor</description>
 		<description lang="fr">Augmente l'armure</description>
 		<effect>
-			<level number="1" sp="10">
+			<level number="1" sp="100">
 				<buff id="2" applyOn="allAlly" />
 			</level>
 		</effect>

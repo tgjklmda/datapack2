@@ -135,4 +135,14 @@
    </properties>
   </object>
  </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object name="bot" type="bot" gid="5123" x="112" y="288">
+   <properties>
+    <property name="file" value="../botst.xml"/>
+    <property name="id" value="4"/>
+    <property name="lookAt" value="right"/>
+    <property name="skin" value="oldman"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>

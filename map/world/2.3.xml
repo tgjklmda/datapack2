@@ -1,8 +1,4 @@
-<map type="outdoor" backgroundsound="toto.ogg" zone="test">
+<map backgroundsound="outdoor.ogg" zone="test" type="outdoor">
 	<name lang="en">Mersoul</name>
 	<name lang="fr">Mersoul</name>
-	<grass>
-
-  </grass>
-	<wather></wather>
 </map>

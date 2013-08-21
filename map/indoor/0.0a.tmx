@@ -130,9 +130,9 @@
   </object>
  </objectgroup>
  <objectgroup name="Object" width="11" height="12">
-  <object type="bot" gid="1027" x="64" y="128">
+  <object type="bot" gid="1027" x="64" y="144">
    <properties>
-    <property name="file" value="../botst.xml"/>
+    <property name="file" value="../botsu.xml"/>
     <property name="id" value="1"/>
     <property name="lookAt" value="left"/>
     <property name="skin" value="mother"/>

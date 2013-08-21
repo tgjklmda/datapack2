@@ -91,7 +91,7 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="object" width="30" height="30">
+ <objectgroup name="Object" width="30" height="30">
   <object name="bot" type="bot" gid="5123" x="80" y="80">
    <properties>
     <property name="file" value="../botsc.xml"/>

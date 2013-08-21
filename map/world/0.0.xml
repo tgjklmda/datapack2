@@ -1,9 +1,4 @@
-<map type="outdoor" backgroundsound="toto.ogg" zone="test">
-	<name lang="en">Arcania</name>
-	<name lang="fr">Arcania</name>
-	<grass>
-          <monster id="1" minLevel="3" maxLevel="4" luck="20" />
-          <monster id="2" minLevel="3" maxLevel="4" luck="80" />
-  </grass>
-	<wather></wather>
+<map backgroundsound="outdoor.ogg" zone="test" type="outdoor">
+    <name lang="en">Arcania</name>
+    <name lang="fr">Arcania</name>
 </map>

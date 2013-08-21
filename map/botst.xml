@@ -28,4 +28,24 @@ skin is invisible
             <text lang="fr">Que j'aime la mer</text>
         </step>
     </bot>
+    <bot id="4">
+        <step type="text" id="1">
+            <text lang="en">The Prof is very busy with this new discovery</text>
+            <text lang="fr">Le Prof est très occupé avec ça nouvelle découverte</text>
+        </step>
+    </bot>
+    <bot id="5">
+        <step type="text" id="1">
+            <text lang="en">road 1
+Warning monsters</text>
+            <text lang="fr">Route 1
+Attention au monstres</text>
+        </step>
+    </bot>
+    <bot id="6">
+        <step type="text" id="1">
+            <text lang="en">Then you go to adventure ?</text>
+            <text lang="fr">Alors tu part a l'aventure ?</text>
+        </step>
+    </bot>
 </bots>

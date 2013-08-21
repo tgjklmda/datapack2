@@ -4,22 +4,29 @@ skin is invisible
 -->
 <bots>
     <bot id="1">
-        <step id="1" type="heal"/>
+        <step type="text" id="1">
+            <text lang="en">we will heal u monsters</text>
+            <text lang="fr">nous allons soigner vos monstres</text>
+        </step>
+        <step type="heal" id="2"/>
     </bot>
     <bot id="2">
-        <step id="1" type="learn"/>
+        <step type="learn" id="1"/>
     </bot>
     <bot id="3">
-        <step id="1" type="warehouse"/>
+        <step type="warehouse" id="1"/>
     </bot>
     <bot id="4">
-        <step id="1" type="industry" factory_id="1"/>
+        <step factory_id="1" type="industry" id="1"/>
     </bot>
     <bot id="5">
-        <step id="1" type="sell" shop="1"/>
+        <step shop="1" type="sell" id="1"/>
     </bot>
     <bot id="100">
-        <step id="1" type="shop" shop="1"/>
-        <step id="2" type="sell" shop="1"/>
+        <step shop="1" type="shop" id="1"/>
+        <step shop="1" type="sell" id="2"/>
+    </bot>
+    <bot id="6">
+        <step type="market" id="1"/>
     </bot>
 </bots>

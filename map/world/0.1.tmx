@@ -21,7 +21,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2DwgIdA/HgA7GVkZGBgZhy1d9TeUXtH7R21d7DZqwi0U3kA7B0FwwNMFKGPnpEIqBlOpJpFDbuHSzyD2s6PoJjcNjQAo8oJuQ==
+   eJxjYBgFo2AUjIJRMApGwSgYBaNgeAA1RgYGdSjWYCRd/0QR8ux1A9rlDsUeZNhLLhiM9s7Fon4+HrNICXNq+ZfUeE4D2pUOxRl0DGdC4CEQP4Lix2SaAQDfOg10
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -31,7 +31,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AU0BIwcmDH5KobtXdw2TtQYKSF80izdxSMglEwCkbBKKAXAABYAwNh
+   eJztlksKwCAMRO2u9z+xq0Iok4/5WagDxVBi3kisdoyjv+q6cWydE2XTB9V+59DcCJerveLNw+WYkqdMbkW+pZY1l45RZvd6tR4iRmZ/uVj6pjK42lo1P1keOpW1V73sSq5ln6LY64mbhzysvM/0gO6GKNPiietFJVNiVLG1f4AqoXOzSzvOkF3n5cOm49E3NQG4fwTA
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -46,7 +46,7 @@
  </layer>
  <layer name="LedgesBottom" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2BkARlGBgY5LBgEsInDsALjwLp7FAw+gCstEZOuRtPTKCAGjJZXo2AUjIJRMApoDQAz5AU2
+   eJxjYBgFo2AUDBcgxzjQLqAukAH6R2GY+WkUEA9G0/MoGAWDF4ym51EwCoYPAAABdQD5
   </data>
  </layer>
  <layer name="LedgesTop" width="30" height="30">
@@ -61,12 +61,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxrYWFgaAXiFiJpRSBGB4ok6IfRS4B4KQk0LntJNQeXe6gFSPUvtcCof0f9O+pfysGof0f9O+pfygGp/qXU35S2N6jtT2L9S6z/STWHkLuI9T+p5tAqHRMKD1qkYw6gOZxAzIVkHrH+1QCyNYFYiwy3YNNLrH89gGxPIPYiw15seon1bwaQnQnEWWTYi00vPeIXGxjO6RkbQLcHAAcB6uY=
+   eJztVzEOwjAQy8DAN8oEvAT4A2KFvqP8BP7JLZWi6pzEcSJlwNLJpyS9i69esuxCeFsshTxZbDER36/8sfgSjPqydbb36A2ktzdG1Hs0PlmcxXt4dVJ6L8ZXi5vY16uT0vs0flnMYl+vTkovmnO8jnJ0vkQvmnO8jnJ0vkQvmnO8jvLcnP9+HsvPircVPyveVvyseJv1M4PDHu+xfm4F1s+twPg5x3en/iP482L8nGPU15sX62cPNXpb+LlGb6pOT72pOqPrVZF7L/RC7Xuh1X7t/1X3V/4Bgr3S0g==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKgkkPFfMHm3tG/TvqX3qCUf+O+ncwmz/Y3DNU/Eupu2hlLqWAkLuIdSe1zKE1oJc7Brt/OYBsTiDmopLbBrt/h6o9g8Udg9W/9CqvAKbKTog=
+   eJxjYBgYkMLCwJDKgqDpZd9AgcHkXw6gOCcQc1HoDnzmYPOvBg39PRjjF1f4IIvjYuNSj27fQIHR9ExbMBjjl9S0Sko6H4z+pYd9tASj6RnTfmJpWSxmyDNg98dQTs+UypOqjlYAl385WLCrI2QOsfYNFKBX/qV3OUGpO6glP9j8S4imljkAxgg5vw==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
@@ -101,8 +101,24 @@
   <object type="bot" gid="5123" x="256" y="32">
    <properties>
     <property name="file" value="../botsc.xml"/>
+    <property name="id" value="32"/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="girlplayer"/>
+   </properties>
+  </object>
+  <object type="bot" gid="5123" x="256" y="288">
+   <properties>
+    <property name="file" value="../botst.xml"/>
     <property name="id" value="1"/>
     <property name="lookAt" value="left"/>
+    <property name="skin" value=""/>
+   </properties>
+  </object>
+  <object type="bot" gid="5123" x="336" y="112">
+   <properties>
+    <property name="file" value="../botsc.xml"/>
+    <property name="id" value="1"/>
+    <property name="lookAt" value="bottom"/>
     <property name="skin" value="girlplayer"/>
    </properties>
   </object>

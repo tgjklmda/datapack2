@@ -21,7 +21,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgF1AAPgfgxlC3CR57+R0hmEAsYGRkYmBkhbBMy7AXpZ0IygxBYxINpbwgZ9ioC9SoBsTKR9sIAsr0wt9ADKCK59RAJ9k4UoY17KLUzG4hz0HAuTV0FAd1A7AnEa5DwWiqZDfM3Nv+D7O2lkj3E2klLewmBUXtH7cUHHqFhbPUOtjIiC4gzsYgTW5YoMaJibOX/agbU8gGEvRgwyw1smFplCQwM1fgdtXfw2EtJPqKkXqYkHyHnJWq0YQiFMzXswGYGKAzWElAzChAAAKtFS9M=
+   eJxjYBgF1AAPgfgxlC3CR57+R0hmEAsYGRkYmBkhbBMy7AXpZ0IygxBYxINpbwgZ9ioC9SoBsTKR9sIAsr0wt9ADKCK59RAJ9k4UoY17KLUzG4hz0HAuTV0FAd1A7AnEa5DwWiqZDfM3Nv+D7O2lkj3E2klLewmBUXuHh70H0cqawzzUsfcRGsZW72ArI7KAOBOLOLFliRIjKsZW/q9mQC0fQNiLAbPcwIapVZbAwHBNV6P20s9eSvIRJfUyJfkIOS9Row1DKJypYQc2M0BhsJaAmlGAAAD7E01v
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -66,7 +66,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9V7lOAzEUdCQKilWa8APpgDrQJWmBfyBpgZ6GM0WQEOI+GqjC0XEfH7CkJeH+C8Il6BkLW2uZZ6+XbDLSyLv73vN4dvd5k3IHY3NgOaYxDepIE3n74EGMo0lXz7OtO4uanMI8o/NUZpPITQaa8lzGw/zynGFt3UVG52Uwb59gzWOs7gU18pzH+pNufildKq+CeXcFTbo8tufF55cjiq7Jr/qsplFXEvVT4CwLYip8fh+7GLu26PJY1eL3P/A7g+MG5n71/p7PY+4Fy/vcapj88vuZszDfpG5UvzJeJGJ8rTMseBdsiPp8ZZzStc2v+wnrXxMo3W7k94C9xPy6n7D+lVD3Irnn6BhA/iA4JOrWUoytgxvgJriViu5X3RNk7+sYQf4oOCbqzqBzDl6Al+CVouvit+Coq+MeOg/gI/gEPhN+9e+Jugdw+GKvkftRldBV32de/wGdT3AcNV8Yvwm/7UYz+2IzMH239fscN1zf50U8myVwGVwBV1PmOV3g2r+H0DkCj8ET8BRMKHF+nFF6m58XRCxD9LzL7w1efwOdGlgHb8E7wm/F0GP8+gQ4qVx3+b3B8QKdhuiJN4zvhF9f+a4nxDetxH6vb4M7iq6L31bA1W/c0P3q/dQuv+1C2PMNG/X1Rx3/+z9IX3/U8Qeg8h6+
+   eJy9V7lOAzEUdCQKilWa8APpgDrQJSkJ/ANJC/Q0nCmChBD30UAVjo77+IBAS8L9F4RL0DMWttYyz15vsslII+/ue8/j2d3nTUodjM2BpYjGJKgjSeTtgwcRjiZdPc+27jRqMgqzjM5TmY4jN+5rynMZD/LLc4a1dRcYnZfCvH2CVY+xmufXyHMe64+7+aV0qbwy5t0VNOny2J4XnV+OMLomv+qzmkZdUdRPgbPMj6mo8PvYxdi1RZfHbix+G0Gl0z+uY+437//5POZesLzPrYbJL7+fGQuzTeqG9SvjBSLG1zrD/HfBhrDPV8YpXdv8up+g/jWB0u1Gfg/YS8yv+wnqXwl1L5J7jo4c8gfBIVG3lmBsHdwAN8GtRHi/6p4ge1/HCPJHwTFRdwadc/ACvASvFF0Xv3lHXR0P0HkEn8Bn8IXwq39P1D2AY0DsNXI/yhG66vvM6z+h8wWOo+Yb4w/ht91oZl9sBqbvtn6fo4br+7yIZ7MELoMr4GrCPKcLXPv3EDpH4DF4Ap6CMSXOj1NKb/PzvIiliJ53+b3B62+hUwVr4B14T/gtG3qMX58AJ5XrLr83OF6hUxc98Y7xg/BbUb7rMfFNK7K/69vgjqLr4rcVcPUbNXS/ej+1y2+7EPR8g0Z9/WHHRv8H6esPO/4CfxgdyQ==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
@@ -159,8 +159,8 @@
    <properties>
     <property name="file" value="../botst.xml"/>
     <property name="id" value="1"/>
-    <property name="lookAt" value="left"/>
-    <property name="skin" value="bottom"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="oldman"/>
    </properties>
   </object>
  </objectgroup>

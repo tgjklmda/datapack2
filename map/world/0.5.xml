@@ -1,9 +1,9 @@
-<map type="outdoor" backgroundsound="toto.ogg" zone="test">
-	<name lang="en">Roade 5</name>
+<map backgroundsound="outdoor.ogg" zone="test" type="outdoor">
+	<name lang="en">Road 5</name>
 	<name lang="fr">Route 5</name>
 	<grass>
-          <monster id="1" minLevel="8" maxLevel="12" luck="20" />
-          <monster id="2" minLevel="10" maxLevel="13" luck="80" />
+          <monster id="13" minLevel="8" maxLevel="12" luck="30" />
+          <monster id="2" minLevel="10" maxLevel="13" luck="35" />
+          <monster id="3" minLevel="4" maxLevel="4" luck="35" />
   </grass>
-	<wather></wather>
 </map>
