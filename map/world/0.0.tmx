@@ -125,7 +125,7 @@
   <object name="door" type="door" gid="5123" x="144" y="368">
    <properties>
     <property name="map" value="../indoor/0.0c"/>
-    <property name="x" value="6"/>
+    <property name="x" value="5"/>
     <property name="y" value="10"/>
    </properties>
   </object>
@@ -142,6 +142,14 @@
     <property name="id" value="4"/>
     <property name="lookAt" value="right"/>
     <property name="skin" value="oldman"/>
+   </properties>
+  </object>
+  <object name="bot" type="bot" gid="5123" x="288" y="384">
+   <properties>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="200"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="girl2"/>
    </properties>
   </object>
  </objectgroup>

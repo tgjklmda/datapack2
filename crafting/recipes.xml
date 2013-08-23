@@ -4,9 +4,20 @@ success: 100 (100%)
 quantity: 1
 -->
 <recipes>
-	<recipe id="1" itemToLearn="10" doItemId="7"><!-- Recipe: Jam -->
-		<material itemId="3" quantity="15" /><!-- Mocochinchi -->
-		<material itemId="8" /><!-- Bottle empty -->
-		<material itemId="9" quantity="3" /><!-- Sugar -->
+	<recipe id="1" itemToLearn="5" doItemId="9">
+		<material itemId="1004" quantity="2" />
+	</recipe>
+	<recipe id="2" itemToLearn="5" doItemId="5">
+		<material itemId="1002" quantity="2" />
+	</recipe>
+	<recipe id="3" itemToLearn="15" doItemId="10">
+		<material itemId="1002" quantity="2" />
+		<material itemId="1006" quantity="1" />
+		<material itemId="1003" quantity="1" />
+	</recipe>
+ 	<recipe id="4" itemToLearn="15" doItemId="6">
+		<material itemId="1002" quantity="2" />
+		<material itemId="1007" quantity="2" />
+		<material itemId="1004" quantity="2" />
 	</recipe>
 </recipes>

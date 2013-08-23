@@ -26,7 +26,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="8" id="3" attack_level="1" />
+			<attack level="8" id="4" attack_level="1" />
 		</attack_list>		
 		<name lang="en">Elofly</name>
 		<name lang="fr">Elofly</name>
@@ -38,7 +38,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="8" id="3" attack_level="1" />
+			<attack level="8" id="4" attack_level="1" />
 		</attack_list>		
 		<name lang="en">Conifeuille</name>
 		<name lang="fr">Conifeuille</name>
@@ -50,7 +50,7 @@ catch_rate="100"
 		<attack_list>
 			<!-- if level is 0, it's base attack, default: attack_level="1" -->
 			<attack level="0" id="3" />
-			<attack level="8" id="3" attack_level="1" />
+			<attack level="8" id="4" attack_level="1" />
 		</attack_list>		
 		<name lang="en">Polyrock</name>
 		<name lang="fr">Polyrock</name>

@@ -1,4 +1,4 @@
-<map backgroundsound="outdoor.ogg" zone="test" type="outdoor">
+<map backgroundsound="" zone="symposia" type="outdoor">
     <name lang="en">Symposia</name>
     <name lang="fr">Symposia</name>
     <grass>

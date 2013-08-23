@@ -1,9 +1,9 @@
-<map backgroundsound="outdoor.ogg" zone="test" type="outdoor">
+<map backgroundsound="" zone="megalopolis" type="outdoor">
 	<name lang="en">Megalopolis</name>
 	<name lang="fr">Megalopolis</name>
 	<grass>
           <monster id="3" minLevel="13" maxLevel="15" luck="45" />
           <monster id="13" minLevel="13" maxLevel="15" luck="45" />
-          <monster id="2" minLevel="13" maxLevel="15" luck="45" />
+          <monster id="2" minLevel="13" maxLevel="15" luck="10" />
   </grass>
 </map>

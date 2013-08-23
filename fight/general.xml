@@ -4,6 +4,7 @@
 		<win lang="en"><![CDATA[You are so strong for me!]]></win>
 		<monster id="13" level="4">
 			<attack id="3" />
+			<attack id="4" />
 		</monster>
 		<gain cash="100" />
 	</fight>
@@ -439,6 +440,7 @@
 		<win lang="en"><![CDATA[You are so strong for me!]]></win>
 		<monster id="3" level="5">
 			<attack id="3" />
+			<attack id="4" />
 		</monster>
 		<gain cash="100" />
 	</fight>
@@ -447,6 +449,7 @@
 		<win lang="en"><![CDATA[You are so strong for me!]]></win>
 		<monster id="2" level="6">
 			<attack id="3" />
+			<attack id="4" />
 		</monster>
 		<gain cash="100" />
 	</fight>

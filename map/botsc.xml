@@ -43,7 +43,7 @@ skin is invisible
         <step type="fight" id="1" fightid="13"/>
     </bot>
     <bot id="14">
-        <step type="fight" id="1" fightid="214"/>
+        <step type="fight" id="1" fightid="14"/>
     </bot>
     <bot id="15">
         <step type="fight" id="1" fightid="15"/>

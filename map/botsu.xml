@@ -17,16 +17,37 @@ skin is invisible
         <step type="warehouse" id="1"/>
     </bot>
     <bot id="4">
-        <step factory_id="1" type="industry" id="1"/>
+        <step type="industry" factory_id="1" id="1"/>
     </bot>
     <bot id="5">
-        <step shop="1" type="sell" id="1"/>
+        <step type="sell" shop="1" id="1"/>
     </bot>
     <bot id="100">
-        <step shop="1" type="shop" id="1"/>
-        <step shop="1" type="sell" id="2"/>
+        <step type="shop" shop="1" id="1"/>
+        <step type="sell" shop="1" id="2"/>
     </bot>
     <bot id="6">
         <step type="market" id="1"/>
+    </bot>
+    <bot id="7">
+        <step type="clan" id="1"/>
+    </bot>
+    <bot id="200">
+        <step type="zonecapture" zone="arcania" id="1"/>
+    </bot>
+    <bot id="201">
+        <step type="zonecapture" zone="symposia" id="1"/>
+    </bot>
+    <bot id="202">
+        <step type="zonecapture" zone="castel Town" id="1"/>
+    </bot>
+    <bot id="203">
+        <step type="zonecapture" zone="megalopolis" id="1"/>
+    </bot>
+    <bot id="204">
+        <step type="zonecapture" zone="mersoul" id="1"/>
+    </bot>
+    <bot id="205">
+        <step type="zonecapture" zone="telomont" id="1"/>
     </bot>
 </bots>

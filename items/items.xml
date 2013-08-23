@@ -1,29 +1,29 @@
 <items>
-    <item price="200" image="crafttrap/Craftball.png" id="1">
+    <item image="crafttrap/Craftball.png" id="1" price="200">
         <name>Craftball</name>
         <name lang="fr">Craftball</name>
         <description>The craftball is perfect to capture a very low level monsters.</description>
         <description lang="fr">La craft ball est parfaite pour capturer les monstres de trés bas niveaux.</description>
     </item>
-    <item price="500" image="crafttrap/Superball.png" id="2">
+    <item image="crafttrap/Superball.png" id="2" price="500">
         <name>Superball</name>
         <name lang="fr">Superball</name>
         <description>The super Superball is perfect to capture a low level monsters.</description>
         <description lang="fr">La Super ball est parfaite pour capturer les monstres de bas niveaux.</description>
     </item>
-    <item price="1000" image="crafttrap/hyperball.png" id="3">
+    <item image="crafttrap/hyperball.png" id="3" price="1000">
         <name>Hyperball</name>
         <name lang="fr">Hyperball</name>
         <description>The hyperball is perfect to capture a mid level monsters.</description>
         <description lang="fr">La hyper ball est parfaite pour capturer les monstres de niveaux moyen.</description>
     </item>
-    <item price="2000" image="crafttrap/Extraball.png" id="4">
+    <item image="crafttrap/Extraball.png" id="4" price="2000">
         <name>Extraball</name>
         <name lang="fr">Extraball</name>
         <description>The Extraball is perfect to capture a hight level monsters.</description>
         <description lang="fr">La Extra ball est parfaite pour capturer les monstres de haut niveaux.</description>
     </item>
-    <item price="300" image="potion/a.png" id="5">
+    <item image="potion/a.png" id="5" price="300">
         <name>Potion</name>
         <name lang="fr">Potion</name>
         <description>The Superpotion used for very low heal monsters.</description>
@@ -35,7 +35,7 @@
             <regeneration hp="50"/>
         </effect>
     </item>
-    <item price="500" image="potion/b.png" id="6">
+    <item image="potion/b.png" id="6" price="500">
         <name>Superpotion</name>
         <name lang="fr">Superpotion</name>
         <description>The Superpotion used for low heal monsters.</description>
@@ -47,7 +47,7 @@
             <regeneration hp="100"/>
         </effect>
     </item>
-    <item price="750" image="potion/c.png" id="7">
+    <item image="potion/c.png" id="7" price="750">
         <name>Hyperpotion</name>
         <name lang="fr">Hyperpotion</name>
         <description>The Hyperpotion used for heal monsters.</description>
@@ -59,7 +59,7 @@
             <regeneration hp="200"/>
         </effect>
     </item>
-    <item price="1500" image="potion/d.png" id="8">
+    <item image="potion/d.png" id="8" price="1500">
         <name>Potionmax</name>
         <name lang="fr">Potionmax</name>
         <description>The Potionmax used for heal monsters.</description>
@@ -71,7 +71,7 @@
             <regeneration hp="all"/>
         </effect>
     </item>
-    <item price="250" image="potion/e.png" id="9">
+    <item image="potion/e.png" id="9" price="250">
         <name>Reppousse</name>
         <name lang="fr">Reppousse</name>
         <description>The Reppousse used for Reppousse monsters during 100 step.</description>
@@ -80,7 +80,7 @@
             <repousse rate="100"/>
         </effect>
     </item>
-    <item price="500" image="potion/f.png" id="10">
+    <item image="potion/f.png" id="10" price="500">
         <name>Superreppousse</name>
         <name lang="fr">Superreppousse</name>
         <description>The Superreppousse used for Reppousse monsters during 250 step.</description>
@@ -89,7 +89,7 @@
             <repousse rate="250"/>
         </effect>
     </item>
-    <item price="750" image="potion/h.png" id="11">
+    <item image="potion/h.png" id="11" price="750">
         <name>Hyperreppousse</name>
         <name lang="fr">Hyperreppousse</name>
         <description>The Hyperreppousse used for Reppousse monsters during 500 step.</description>
@@ -98,9 +98,47 @@
             <repousse rate="500"/>
         </effect>
     </item>
-    <item id="0"/>
-    <item id="0"/>
-    <item id="0"/>
-    <item id="0"/>
-    <item id="0"/>
+    <item image="plants/1.png" id="1001" price="50">
+        <name lang="en">Mocochinchi</name>
+        <name lang="fr">Mocochinchi</name>
+        <description lang="en">in mins, max 1080mins due to seconds to mature defined on 16Bits</description>
+        <description lang="fr">in mins, max 1080mins due to seconds to mature defined on 16Bits</description>
+    </item>
+    <item id="12" price="0"/>
+    <item image="plants/2.png" id="1002" price="50">
+        <name lang="en">Mocochinchi</name>
+        <name lang="fr">Mocochinchi</name>
+        <description lang="en">in mins, max 1080mins due to seconds to mature defined on 16Bits</description>
+        <description lang="fr">in mins, max 1080mins due to seconds to mature defined on 16Bits</description>
+    </item>
+    <item image="plants/3.png" id="1003" price="50">
+        <name lang="en">Maracuya</name>
+        <name lang="fr">Maracuya</name>
+        <description lang="en">Maracuya</description>
+        <description lang="fr">Maracuya</description>
+    </item>
+    <item image="plants/4.png" id="1004" price="50">
+        <name lang="en">Lima</name>
+        <name lang="fr">Lima</name>
+        <description lang="fr">Lima</description>
+        <description lang="en">Lima</description>
+    </item>
+    <item image="plants/tuber.png" id="1005" price="50">
+        <name lang="fr">Raspplant</name>
+        <name lang="en">Raspplant</name>
+        <description lang="en">Raspplant</description>
+        <description lang="fr">Raspplant</description>
+    </item>
+    <item image="plants/red-mushroom.png" id="1006" price="50">
+        <name lang="fr">Tuber</name>
+        <name lang="en">Tuber</name>
+        <description lang="en">Tuber</description>
+        <description lang="fr">Tuber</description>
+    </item>
+    <item image="plants/red-mushroom.png" id="1007" price="50">
+        <name lang="en">Red mushroom</name>
+        <name lang="fr">Champignon rouge</name>
+        <description lang="en">Red mushroom</description>
+        <description lang="fr">Champignon rouge</description>
+    </item>
 </items>

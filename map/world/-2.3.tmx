@@ -149,8 +149,8 @@
   </object>
   <object name="bot" type="bot" gid="5123" x="432" y="208">
    <properties>
-    <property name="file" value="../botst.xml"/>
-    <property name="id" value="1"/>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="202"/>
     <property name="lookAt" value="left"/>
     <property name="skin" value="john"/>
    </properties>

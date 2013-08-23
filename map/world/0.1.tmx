@@ -21,12 +21,12 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwSgYBaNgeAA1RgYGdSjWYCRd/0QR8ux1A9rlDsUeZNhLLhiM9s7Fon4+HrNICXNq+ZfUeE4D2pUOxRl0DGdC4CEQP4Lix2SaAQDfOg10
+   eJxjYBgFo2AUjIJRMApGwSgYBaNgeAA1RgYGdSjWYCRd/0QR8ux1A9rlDsUeZNhLLhiM9s7Fon4+HrNICXNK/MsGxOxomINIvWlAu9KhOINEe9WwiGmQZgRO8BCIH0HxYzQ5NyB2R8MeWMwAAL5CDvE=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztw7EJAAAIA7B+4/8funcXHBJIAgAAwJWpnyxpeACd
   </data>
  </layer>
  <layer name="Grass" width="30" height="30">

@@ -216,5 +216,13 @@
     <property name="skin" value="oldman"/>
    </properties>
   </object>
+  <object name="bot" type="bot" gid="5123" x="320" y="416">
+   <properties>
+    <property name="file" value="../botsu.xml"/>
+    <property name="id" value="201"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="player"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

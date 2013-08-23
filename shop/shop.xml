@@ -9,5 +9,7 @@ Some special product can be added onetime too
     <product itemId="1" />
 		<product itemId="5" />
 		<product itemId="9" />
+		<product itemId="1001" />
+		<product itemId="1002" />
 	</shop>
 </shops>
