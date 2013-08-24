@@ -1,0 +1,15 @@
+<!--
+default:
+skin is invisible
+-->
+<bots>
+    <bot id="1">
+        <step factory_id="1" id="1" type="industry"/>
+    </bot>
+    <bot id="2">
+        <step factory_id="1" id="1" type="industry"/>
+    </bot>
+    <bot id="3">
+        <step factory_id="1" id="1" type="industry"/>
+    </bot>
+</bots>

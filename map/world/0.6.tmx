@@ -98,7 +98,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlcENwjAMRTMA6qUbMAA3NoArU7SDAJMkmaRlMVxRi+g3oq6TthzypS8rUeyXRK1jTLos2Weogzoepl6bayPMwT5gI9dG9oY5EjlgOsF5cQ2OC3eqHri9gItrcJyqO7klN+Rn3tKzTJaWXdXLmQ6sYZ/qT72HwG0k342xEeSHuhG3o9gLfP3BvQjytepGNt7zwHwl1NWwt2Aie0smS/oenat9uLm1yvtrvt+ND6KUq90T52Gcq8371TDDno8Re1dszkXmY/0KJeld/P9KelSOfsVKuc/CLdx/47L24i7VG3/ff58=
+   eJztlU0KwjAQhXMAKUJv4AHcuXWlW4/gqr2GoN5DSHKSxouZYkPD62Cn+Wk2PngMCZn5ktBOhIiXtNYJ6qB2m6lzcyXB7K09NnIlsTfM4UgBUzHOi2tw/OdOZYBrGFxcg+NY3a1b68b6mbb0LNMplF3Vy5kKHMLe1996D4ZbIl8NsWHk+7pYbmejYfj8g3ti5IeqG9h4zz3zHVE3hL0GE9lrMp2479GhKsNNrSzvrxi/G+1FLjd0Ty4P41xtt98Qpt/zMWLvouYUMU/1KxSnd7n/l9OjUvQrp5j7zM09bstwr4W4t0LcVyFuTpXiLtUHg1uBlw==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -138,17 +138,17 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzNlk0vA0EYx0fSQ0UVu74F4v2luDgjhKuEL+EDoE1EvF0qDi59O2lxWScO23LS4nto0+Lq4D+6m44xM7vVdtN/8svupvM8/z6zM89O2EdIBFBddBBPRH2S8ExJfHf8hJwH5cgUDcqxfcJcvXv+Wvwu7g2Jp6HwNSSeBuPL18v6UsUCVeIMCQuZnGKc6m2V753D+22VL9WlRkgaZDSxrynJkbNymMz82PdOMVRP8MuDAviS7COaJ8uQU9TqNuYNfkVQ0hQ5mJoWOn8/q2LoWFEOqi6dkADo1p1zNVMD8BsEQx77LsJvCSw34LuJOdxyMfes2P274VF/pnLav6z2Me7A5z63ajzfr7ySqt5p9PEZCSGrx4v6xiHWyhE4Bifg1Fo7E4iZtFDVy/ccvv/IlIZPBlyBa3Cj/83H1xtm/j8dFwVngqvKNw+fAngGL+BV4MvXG/FX+Zk3/G6AW8FV1SuL8CmB7X5CyrhW9Fo+u2+q3q+bfvjf8e24nlupdq+3jO9kBbyDD/Ap+W6K9nxIcAYU1cvub8oU6MGa7AV9QAO65Dsi2vN0z80ix5zFfFBcr+iMMgyfETAKxsB4nb4x7llUr+iMsgKfVWtPruG6LvHlY+14k3t2837DTC9plhpZzzGsrThIgCRIKc5ovNh66Xn6vg5M+GRBDjyAR8197DcDMvTp
+   eJzNlksvQ0EUx0fSRQVV9/oWiPejS2uEsJXwJXwAtImI16ZiIaKvlRaba8WiLSstvoc2LbYW/qO36Rhn5l76SP/JL9Omc86/Z+7MuRP0MBYCXKcdrCXiPnF4JhS+m17GTnxqVAr71FR9glK9295a/BY+WwpPS+NrKTwtwVeuV/TlinRXiArEbFRyinGqt1m+tw7Pt1m+XBcGY0mQMmjftCJH1s6RFtan+tkphusRfjmQB5+Kc8TzZASymlrdxrzCrwCKhiaHUNNs58/vuhg+l8rB1WUy1g16TOdcjdQA/AbBUIt95+A3Dxbq8F3DGq67WHtR4vldbVF/5nI6v6J2MG/X4z63br7cr1olXb3T6OMzCgJ2j6f6xh72yj44AIfgyN47E4iZtNHVK/ccuf+olIRPClyCK3Bt/s4n1xsU/j+fFwbHxKjzzcEnD57AM3ghfOV6Q94K3+uG3y1wQ4y6XlmATxFs9DNWwlg2a/mqfVP3fN30w//Ob8f93Ey1e70lvCfL4A28gw/Fe5M68wHiDkjVK55vzhToxZ70gz5gAFPxHqHOPHXmqHqpO8owfEbAKBgD43X6UvVSd5RF+CzZZ3IZ44rCV44V7zhn/sp47nf3fINCL2mU6tnPEeytKIiBOEho7miyxHr5ffruD6ThkwFZcA8eDPexX2dZ7zM=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzdlMlKA0EQhusQMIdhAhkTV9BbfAPxpLf4AO6KJ0UPbgeX+BoaXI6+gsaoT+H2Qv5NuqEx1dtMRgZ/+Bjo7qq/a+gqIrMuYqKWhcu4P+YUa2cWzmXMTolot8T73jJ5dd0z+21HzI1jX+glNnsLzzdmrxObvYVn16Ne5f3KwHnq3s8MXY9alfYifn3fsO4rV72NqN9beM54+Kq4NHdsRj3vK3AN2tJz0SNXQ57xuaPJ+xE8gY6np4oT8j3/V2plvM9UmWi6HB53l9F3Hp4Lgb6u9/zfVMR6RzDXRg2MWWbeQUJ0CI7AMThJeuvDiKlJbPXOWnLPBczaUK0i95qB9RS+S4hZltjqTSr4N6DGfOuVcN8h2a/bjr59SDELbGpqfkV8z3mq6PW+V4k+wCf4At9V/hzX81yvc/Xq/S2oD6BXx5FjQjKZQ+9zPc/1Olev3t+ClcD7cf25gRybkq0cZ51LWd7z77ky6DmTh1S9ab5Z8v0ALbhWNQ==
+   eJzdVDlOA0EQ7MASDlZryYsNRDgzP0BEkJkHcCZEIBxwBRzmG2BxhHwBjIFXGJsPUSPPSCPcc+16YUVJpZVmprumVlNNZMZVTNSx8DqerDnH2oWFl7Jmv0R0UOJ175m+Oh6Z/a6j5s6xL/AWm7WF5gez14vN2kKz7+FXab8z5DR17VeGfQ+vCocRv942rPvC5bcZTWoLzSUPXVWX5o6taKx9A96CXam57tGrKc/43NGk/Qy+gD1PTVUn4Hv+t9DJeJ/FMlGjHF73kFF3FZprgbqu9/zfUES/c5hr8wYuWGbeUUJ0DJ6Ap+BZMl6fRU1N0uZ32dJ7JWDWhmIbvXcM3E2hu4GaTUmb36SCfwPWmG+9Eq47I/O658jtU4pZYENL0yvie84TRfc7qBJ9gkNwBH5V+XNc5rmsc371fAvWc8zqtMBlnss651fPt+BWoF9XPv8SWd7zz7ky7TmTB5TfNN8s/b4BNmVT7Q==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2DwgYUc2NlDAawTwi6O7g9i/EWKnnM47KU1eEdHe0t5ILgMiH146GdvNg8C59DR3lFAGhjK5QY6uMzHwHAFiK9ioa/xDbTrBh4M9fgdBYTBfx6GhoGwV553YOylFFQB66ZqKtZPMPMImTsLKDebivbCzKOWuU3ANkozELcMUBtpqAAAylweYw==
+   eJxjYBgFo2DwgYUc2NlDAawTwi6O7g9i/EWKnnM47KU1eEdHe0t5ILgMiH146GdvNg8C59DR3lFAGhjK5QY6uMzHwHAFiK9ioa/xDbTrBh4M9fgdBYTBfx6GhoGwV54Xu722AgwMdkBsD8QOAvRzTyzQrjggjgfiBDz2VgHrpmoq1k+1QLvqgLgeiBvw2DsLaOfsQVwvNgHbKM1A3DJAbaShAgDhSB7d
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
@@ -239,6 +239,14 @@
     <property name="id" value="1"/>
     <property name="lookAt" value="bottom"/>
     <property name="skin" value="oldman"/>
+   </properties>
+  </object>
+  <object type="bot" gid="5123" x="448" y="432">
+   <properties>
+    <property name="file" value="../botsi.xml"/>
+    <property name="id" value="1"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="smith"/>
    </properties>
   </object>
  </objectgroup>
