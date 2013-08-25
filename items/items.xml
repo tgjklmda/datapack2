@@ -1,29 +1,29 @@
 <items>
-    <item image="crafttrap/Craftball.png" id="1" price="200">
+    <item image="crafttrap/Craftball.png" price="200" id="1">
         <name>Craftball</name>
         <name lang="fr">Craftball</name>
         <description>The craftball is perfect to capture a very low level monsters.</description>
         <description lang="fr">La craft ball est parfaite pour capturer les monstres de trés bas niveaux.</description>
     </item>
-    <item image="crafttrap/Superball.png" id="2" price="500">
+    <item image="crafttrap/Superball.png" price="500" id="2">
         <name>Superball</name>
         <name lang="fr">Superball</name>
         <description>The super Superball is perfect to capture a low level monsters.</description>
         <description lang="fr">La Super ball est parfaite pour capturer les monstres de bas niveaux.</description>
     </item>
-    <item image="crafttrap/hyperball.png" id="3" price="1000">
+    <item image="crafttrap/hyperball.png" price="1000" id="3">
         <name>Hyperball</name>
         <name lang="fr">Hyperball</name>
         <description>The hyperball is perfect to capture a mid level monsters.</description>
         <description lang="fr">La hyper ball est parfaite pour capturer les monstres de niveaux moyen.</description>
     </item>
-    <item image="crafttrap/Extraball.png" id="4" price="2000">
+    <item image="crafttrap/Extraball.png" price="2000" id="4">
         <name>Extraball</name>
         <name lang="fr">Extraball</name>
         <description>The Extraball is perfect to capture a hight level monsters.</description>
         <description lang="fr">La Extra ball est parfaite pour capturer les monstres de haut niveaux.</description>
     </item>
-    <item image="potion/a.png" id="5" price="300">
+    <item image="potion/a.png" price="300" id="5">
         <name>Potion</name>
         <name lang="fr">Potion</name>
         <description>The Superpotion used for very low heal monsters.</description>
@@ -35,7 +35,7 @@
             <regeneration hp="50"/>
         </effect>
     </item>
-    <item image="potion/b.png" id="6" price="500">
+    <item image="potion/b.png" price="500" id="6">
         <name>Superpotion</name>
         <name lang="fr">Superpotion</name>
         <description>The Superpotion used for low heal monsters.</description>
@@ -47,7 +47,7 @@
             <regeneration hp="100"/>
         </effect>
     </item>
-    <item image="potion/c.png" id="7" price="750">
+    <item image="potion/c.png" price="750" id="7">
         <name>Hyperpotion</name>
         <name lang="fr">Hyperpotion</name>
         <description>The Hyperpotion used for heal monsters.</description>
@@ -59,7 +59,7 @@
             <regeneration hp="200"/>
         </effect>
     </item>
-    <item image="potion/d.png" id="8" price="1500">
+    <item image="potion/d.png" price="1500" id="8">
         <name>Potionmax</name>
         <name lang="fr">Potionmax</name>
         <description>The Potionmax used for heal monsters.</description>
@@ -71,7 +71,7 @@
             <regeneration hp="all"/>
         </effect>
     </item>
-    <item image="potion/e.png" id="9" price="250">
+    <item image="potion/e.png" price="250" id="9">
         <name>Reppousse</name>
         <name lang="fr">Reppousse</name>
         <description>The Reppousse used for Reppousse monsters during 100 step.</description>
@@ -80,7 +80,7 @@
             <repousse rate="100"/>
         </effect>
     </item>
-    <item image="potion/f.png" id="10" price="500">
+    <item image="potion/f.png" price="500" id="10">
         <name>Superreppousse</name>
         <name lang="fr">Superreppousse</name>
         <description>The Superreppousse used for Reppousse monsters during 250 step.</description>
@@ -89,7 +89,7 @@
             <repousse rate="250"/>
         </effect>
     </item>
-    <item image="potion/h.png" id="11" price="750">
+    <item image="potion/h.png" price="750" id="11">
         <name>Hyperreppousse</name>
         <name lang="fr">Hyperreppousse</name>
         <description>The Hyperreppousse used for Reppousse monsters during 500 step.</description>
@@ -98,47 +98,106 @@
             <repousse rate="500"/>
         </effect>
     </item>
-    <item image="plants/1.png" id="1001" price="50">
+    <item image="plants/1.png" price="50" id="1001">
         <name lang="en">Mocochinchi</name>
         <name lang="fr">Mocochinchi</name>
         <description lang="en">in mins, max 1080mins due to seconds to mature defined on 16Bits</description>
         <description lang="fr">in mins, max 1080mins due to seconds to mature defined on 16Bits</description>
     </item>
-    <item id="12" price="0"/>
-    <item image="plants/2.png" id="1002" price="50">
+    <item image="plants/2.png" price="50" id="1002">
         <name lang="en">Mocochinchi</name>
         <name lang="fr">Mocochinchi</name>
         <description lang="en">in mins, max 1080mins due to seconds to mature defined on 16Bits</description>
         <description lang="fr">in mins, max 1080mins due to seconds to mature defined on 16Bits</description>
     </item>
-    <item image="plants/3.png" id="1003" price="50">
+    <item image="plants/3.png" price="50" id="1003">
         <name lang="en">Maracuya</name>
         <name lang="fr">Maracuya</name>
         <description lang="en">Maracuya</description>
         <description lang="fr">Maracuya</description>
     </item>
-    <item image="plants/4.png" id="1004" price="50">
+    <item image="plants/4.png" price="50" id="1004">
         <name lang="en">Lima</name>
         <name lang="fr">Lima</name>
         <description lang="fr">Lima</description>
         <description lang="en">Lima</description>
     </item>
-    <item image="plants/tuber.png" id="1005" price="50">
+    <item image="plants/tuber.png" price="50" id="1005">
         <name lang="fr">Raspplant</name>
         <name lang="en">Raspplant</name>
         <description lang="en">Raspplant</description>
         <description lang="fr">Raspplant</description>
     </item>
-    <item image="plants/red-mushroom.png" id="1006" price="50">
+    <item image="plants/red-mushroom.png" price="50" id="1006">
         <name lang="fr">Tuber</name>
         <name lang="en">Tuber</name>
         <description lang="en">Tuber</description>
         <description lang="fr">Tuber</description>
     </item>
-    <item image="plants/red-mushroom.png" id="1007" price="50">
+    <item image="plants/red-mushroom.png" price="50" id="1007">
         <name lang="en">Red mushroom</name>
         <name lang="fr">Champignon rouge</name>
         <description lang="en">Red mushroom</description>
         <description lang="fr">Champignon rouge</description>
+    </item>
+    <item image="other/iron-ore.png" price="75" id="2001">
+        <name lang="fr">Minerai de fer</name>
+        <name lang="en">Iron ore</name>
+        <description lang="en">Iron ore</description>
+        <description lang="fr">Minerai de fer</description>
+    </item>
+    <item image="other/copper-ore.png" price="50" id="2000">
+        <name lang="fr">Minerai de cuivre</name>
+        <name lang="en">Copper ore</name>
+        <description lang="en">Copper ore</description>
+        <description lang="fr">Minerai de cuivre</description>
+    </item>
+    <item image="other/silver-ore.png" price="100" id="2002">
+        <name lang="en">Silver ore</name>
+        <name lang="fr">Minerai d'argent</name>
+        <description lang="fr">Minerai d'argent</description>
+        <description lang="en">Silver ore</description>
+    </item>
+    <item image="other/coal.png" price="400" id="2003">
+        <name lang="en">coal</name>
+        <name lang="fr">Charbon</name>
+        <description lang="en">Coal</description>
+        <description lang="fr">Charbon</description>
+    </item>
+    <item image="other/gold-ore.png" price="500" id="2004">
+        <name lang="en">Gold ore</name>
+        <name lang="fr">Minerai d'or</name>
+        <description lang="fr">Minerai d'or</description>
+        <description lang="en">Gold ore</description>
+    </item>
+    <item image="other/copper-lingot.png" price="125" id="2005">
+        <name lang="en">Copper ingot</name>
+        <name lang="fr">Lingot de cuivre</name>
+        <description lang="en">Copper ingot</description>
+        <description lang="fr">Lingot de cuivre</description>
+    </item>
+    <item image="other/iron-lingot.png" price="150" id="2006">
+        <name lang="fr">Lingot de Fer</name>
+        <name lang="en">Iron ingot</name>
+        <description lang="fr">Lingot de fer</description>
+        <description lang="en">Iron ingot</description>
+    </item>
+    <item image="other/silver-lingot.png" price="200" id="2007">
+        <name lang="fr">Lingot d'argent</name>
+        <name lang="en">Silver ingot</name>
+        <description lang="en">Silver ingot</description>
+        <description lang="fr">Lingot d'argent</description>
+    </item>
+    <item image="other/steel-lingot.png" price="500" id="2008">
+        <name lang="en">Steel ingot</name>
+        <name lang="fr">Lingot d'acier</name>
+        <description lang="en">Steel ingot</description>
+        <description lang="fr">Lingot d'acier</description>
+    </item>
+    <item image="other/gold-lingot.png" price="700" id="2009">
+        <name lang="fr">Lingot d'or</name>
+        <name lang="en">Gold ingot</name>
+        <description lang="en">Gold ingot</description>
+        <description lang="fr">Lingot d'or</description>
     </item>
 </items>

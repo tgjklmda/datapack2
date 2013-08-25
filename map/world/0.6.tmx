@@ -98,7 +98,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlU0KwjAQhXMAKUJv4AHcuXWlW4/gqr2GoN5DSHKSxouZYkPD62Cn+Wk2PngMCZn5ktBOhIiXtNYJ6qB2m6lzcyXB7K09NnIlsTfM4UgBUzHOi2tw/OdOZYBrGFxcg+NY3a1b68b6mbb0LNMplF3Vy5kKHMLe1996D4ZbIl8NsWHk+7pYbmejYfj8g3ti5IeqG9h4zz3zHVE3hL0GE9lrMp2479GhKsNNrSzvrxi/G+1FLjd0Ty4P41xtt98Qpt/zMWLvouYUMU/1KxSnd7n/l9OjUvQrp5j7zM09bstwr4W4t0LcVyFuTpXiLtUHg1uBlw==
+   eJztlU0KgzAQRj2ASIv0Aj1Ady66b7c9hR6k7UkST2J6sSbUAfkS7eSnBqQPPiTizIsBx6KIR+j0Cfogx9LOr73C4TTpJ270CsfesIaDBKdkvC8+g+u/10aBVzG8+AyuY7nrdDqtzjNt669OItRd1f5OCQlxn+pPvwcjnaNejteWUT/lpr2DvipGrgveC6M+lGF04zkb5yuib4h7DSe6UzplaccF93/UVHm8cxx2YXWx3sbhNT2lfZvtjd3Tee/npf2GOH1mF84omqFzs2sJzuyi75czo1LMKyLmPLfg5X7zW/GuRS4vkcvryxsZ74hG
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -138,17 +138,17 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzNlksvQ0EUx0fSRQVV9/oWiPejS2uEsJXwJXwAtImI16ZiIaKvlRaba8WiLSstvoc2LbYW/qO36Rhn5l76SP/JL9Omc86/Z+7MuRP0MBYCXKcdrCXiPnF4JhS+m17GTnxqVAr71FR9glK9295a/BY+WwpPS+NrKTwtwVeuV/TlinRXiArEbFRyinGqt1m+tw7Pt1m+XBcGY0mQMmjftCJH1s6RFtan+tkphusRfjmQB5+Kc8TzZASymlrdxrzCrwCKhiaHUNNs58/vuhg+l8rB1WUy1g16TOdcjdQA/AbBUIt95+A3Dxbq8F3DGq67WHtR4vldbVF/5nI6v6J2MG/X4z63br7cr1olXb3T6OMzCgJ2j6f6xh72yj44AIfgyN47E4iZtNHVK/ccuf+olIRPClyCK3Bt/s4n1xsU/j+fFwbHxKjzzcEnD57AM3ghfOV6Q94K3+uG3y1wQ4y6XlmATxFs9DNWwlg2a/mqfVP3fN30w//Ob8f93Ey1e70lvCfL4A28gw/Fe5M68wHiDkjVK55vzhToxZ70gz5gAFPxHqHOPHXmqHqpO8owfEbAKBgD43X6UvVSd5RF+CzZZ3IZ44rCV44V7zhn/sp47nf3fINCL2mU6tnPEeytKIiBOEho7miyxHr5ffruD6ThkwFZcA8eDPexX2dZ7zM=
+   eJzN1str1FAUx/ErdFGxjklG6vsvUPFda3XjWkXRjY+C/hOCr422BRFfG6FqEfta2aqb8dkupqMrW3Xl271gS6uCzwp+r3OLd9Kcm4TODB74kBlIzm9OJjdJa41SbdDVMUtVpXROD5m9Qu7JWqXaMzKpLmVkUzmtoXlbav8df4rPOSEz58jNCZk5Kzc8r52rq7OuqMvSbUgVd0zcvJXKHYj5fyuVq+tGoFQf+oPo3LzQo2B65K3zM/U57hhdT8gbxggmhXWk+wxZCo5Zkx7zkbxRjAWOHtZMW2eXfncdo/eN6qFrTlapOszNxvcqZy0nbwVWVjl3G3nbsWMGuQc5h4cSnHu77PXbXKX7s6649WvXafY7U5O8t2v/8P3Krg+Z6cpVrnnveErdxT3cxwM8xAAGveI+UfeNs1wr53AeF3DRXDvr+d0bDNe8L+j9Eq/wGm/wFu/w3pNn6SOnHzdxC7dNrn0PC89bT78FpudXtt/wHT/wE78wid9e6b52DZMzgqd4hucRueF5G+iz0fSq9+mLhViExViCpVjml+5r1yg5Yzg8X6lxthMm1753JrmeG/3itsmXz+3fvinWsOv/rWSlWb/lrP993nGekxP4hM/4Ijw3G7nONqEJm7FFWG9R89rrW2vAPK5JDz4CZIXnyF5y9mE/DqBZyI2aN+odZRU5q7EGa7FOyD1CzlEcw3GcSDFv1DvKTnJ2mTW5m+0eIbednMu4gqvoMLnXzPa6J8877bexLttSPl/jaibXcyfXVhe60YNexztauOx59fv0YAp5coZQwCM8DpIf+wfn3fMQ
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzdVDlOA0EQ7MASDlZryYsNRDgzP0BEkJkHcCZEIBxwBRzmG2BxhHwBjIFXGJsPUSPPSCPcc+16YUVJpZVmprumVlNNZMZVTNSx8DqerDnH2oWFl7Jmv0R0UOJ175m+Oh6Z/a6j5s6xL/AWm7WF5gez14vN2kKz7+FXab8z5DR17VeGfQ+vCocRv942rPvC5bcZTWoLzSUPXVWX5o6taKx9A96CXam57tGrKc/43NGk/Qy+gD1PTVUn4Hv+t9DJeJ/FMlGjHF73kFF3FZprgbqu9/zfUES/c5hr8wYuWGbeUUJ0DJ6Ap+BZMl6fRU1N0uZ32dJ7JWDWhmIbvXcM3E2hu4GaTUmb36SCfwPWmG+9Eq47I/O658jtU4pZYENL0yvie84TRfc7qBJ9gkNwBH5V+XNc5rmsc371fAvWc8zqtMBlnss651fPt+BWoF9XPv8SWd7zz7ky7TmTB5TfNN8s/b4BNmVT7Q==
+   eJxjYMANyvkYGCrw4Eo+TD0lQLFSPLgMqieFhYEhlQW7vdOxmIsMZmKRn0JAzzQC8iCwnQ+33SA7d2KR28KH226QnduI8C/M7h1YMDY7ke3eigVvI8KvMJDOg108A4c4sYCQf9V5MO0G2alBhL0wfeS40Z0HYvckIJ4MxFOgdnoQYZY6VA0xbsRl9yYg3gzEW4i0E6YPBIhVTy9QQaF75DkYGBQ4SNc3g0J77YF2OpBoL6H0PNwAPv+e4MPEgxnkCDMw5AJxHhDnA3GBMERcBOhuUSjG518Ofkw8FEEI0J+hUEzP9MwOza9xdC6/3JHsG82/gwucF2JguADEF4H4EhBfFsKuTkKAgUESiKWAWBqIZQSwq8PmX+T8DcJig7ycIgVg8y9y/gbhsGHuX2LBQg78/MEIYP4lh6bEPAD/v079
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2DwgYUc2NlDAawTwi6O7g9i/EWKnnM47KU1eEdHe0t5ILgMiH146GdvNg8C59DR3lFAGhjK5QY6uMzHwHAFiK9ioa/xDbTrBh4M9fgdBYTBfx6GhoGwV54Xu722AgwMdkBsD8QOAvRzTyzQrjggjgfiBDz2VgHrpmoq1k+1QLvqgLgeiBvw2DsLaOfsQVwvNgHbKM1A3DJAbaShAgDhSB7d
+   eJxjYBgFo2DwgYUc2NlDAawTwi6O7g9i/EWKnnM47KU1eEdHe0t5ILgMiH146GdvNg8C59DR3lFAGhjK5cYoIA2Mxu8ooCewFWBgsANieyB2EKCfvbFAu+KAOB6IEwjYWwWsm6qpVD/VAu2qA+J6IG4gYO8soJ2zB3G92ARsozQDccsAtZGGCgAAYEUVkg==
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
@@ -233,7 +233,7 @@
     <property name="skin" value="john"/>
    </properties>
   </object>
-  <object type="bot" gid="5123" x="224" y="320">
+  <object type="bot" gid="5123" x="160" y="320">
    <properties>
     <property name="file" value="../botst.xml"/>
     <property name="id" value="1"/>
@@ -241,7 +241,7 @@
     <property name="skin" value="oldman"/>
    </properties>
   </object>
-  <object type="bot" gid="5123" x="448" y="432">
+  <object type="bot" gid="5123" x="432" y="432">
    <properties>
     <property name="file" value="../botsi.xml"/>
     <property name="id" value="1"/>
