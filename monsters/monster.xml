@@ -94,6 +94,19 @@ catch_rate="100"
 		<description lang="en">Sclairus use claw for protect himsell.</description>
 		<description lang="fr">Sclairus utilise ces griffe afin de ce protége.</description>
 	</monster>
+<monster id="17" type="normal" height="0.76m" weight="45kg" ratio_gender="50%" catch_rate="100" egg_step="5000" xp_max="300"
+		hp="150" attack="200" defense="150" special_attack="170" special_defense="150" speed="180" give_sp="100" give_xp="110" pow="1.2">
+		<attack_list>
+			<!-- if level is 0, it's base attack, default: attack_level="1" -->
+			<attack level="0" id="3" />
+			<attack level="0" id="4" />
+			<attack level="8" id="1" attack_level="1"/>
+		</attack_list>		
+		<name lang="en">Volcoli</name>
+		<name lang="fr">Volcoli</name>
+		<description lang="en">Volcoli use claw for protect himsell.</description>
+		<description lang="fr">Volcoli utilise ces griffe afin de ce protége.</description>
+	</monster>
 	
 	
 </list>

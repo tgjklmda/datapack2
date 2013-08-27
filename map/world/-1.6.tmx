@@ -71,7 +71,7 @@
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBhYkMLCwJDKgqCJVUcuPVCAVPcMN//SSt9A+Xc5HwPDCiBeCcSr+Ohj/xQhBoapfKh4oAC5/iU3vip4SLeLGmAGhfZSmg+GCqA0Hw60fyktj6ltH60BzH5ZLHLyDMPXv/SqR4e6f4d6e2PUv6P+Hcr+HSgAAMAraWk=
+   eJxjYBhYkMLCwJDKgqCJVUcuPVCAVPcMN//SSt9A+Xc5HwPDCiBeCcSr+Ohj/xQhBoapfKh4oAC5/h0s6ZNegNJ8MFQApfE60P6ltDymtn20BjD7ZbHIyTMMX//Sqx4d6v4d6u2NUf+O+nco+3egAAAsTWhB
   </data>
  </layer>
  <layer name="other" width="30" height="30">
@@ -102,13 +102,6 @@
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="224" y="160"/>
   <object name="door" type="door" gid="5123" x="416" y="176">
-   <properties>
-    <property name="map" value="../indoor/-1.6"/>
-    <property name="x" value="1"/>
-    <property name="y" value="5"/>
-   </properties>
-  </object>
-  <object name="door" type="door" gid="5123" x="416" y="192">
    <properties>
     <property name="map" value="../indoor/-1.6"/>
     <property name="x" value="1"/>

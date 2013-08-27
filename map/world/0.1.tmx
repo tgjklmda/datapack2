@@ -31,7 +31,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlksKwCAMRO2u9z+xq0Iok4/5WagDxVBi3kisdoyjv+q6cWydE2XTB9V+59DcCJerveLNw+WYkqdMbkW+pZY1l45RZvd6tR4iRmZ/uVj6pjK42lo1P1keOpW1V73sSq5ln6LY64mbhzysvM/0gO6GKNPiietFJVNiVLG1f4AqoXOzSzvOkF3n5cOm49E3NQG4fwTA
+   eJzt1cEOgCAIBmC79f5P7DqwOSb8ISC16aWW6Pejh1o747rrzN3241XY3KIcWh5eM9Z6XGlvS7YVVzK1TJHu2/UR7riXZf1f+0V3ODMi71d6954PclGvKI/VlTJED+SimgyX5rNcdHezjN6z0ExeZ/m+Ys/m+d6ef0JEtmxTM7Js7Ux39ZvpIHunWdEr2ePzjG+ODnngBY8=
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -46,7 +46,7 @@
  </layer>
  <layer name="LedgesBottom" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUDBcgxzjQLqAukAH6R2GY+WkUEA9G0/MoGAWDF4ym51EwCoYPAAABdQD5
+   eJxjYBgFIxnIMDIwyCFhBUbCanCpoxZg5IDgUTAKQICWaW0UjAJ6g9H0PAqGExhNz6NgFAwPAABWuwHL
   </data>
  </layer>
  <layer name="LedgesTop" width="30" height="30">

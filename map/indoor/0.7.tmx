@@ -83,12 +83,12 @@
  </layer>
  <layer name="Other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFowABAAIQAAE=
+   eJxjYBgFgx3Y0dEuABw4AD8=
   </data>
  </layer>
  <layer name="Collisions" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxbzMDAsJgMLIQDY1NrhANjUwsCKzgYMMCoWtxqYWEPA/jighAGAFy5NIk=
+   eJxbzMDAsJgMLIQDY1NrhANjNZeFgWEFBwMKAIlhUwsC6GoZcJg7nNWSEheEMACmQTTZ
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
@@ -98,29 +98,15 @@
  </layer>
  <layer name="WalkBehind" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYKAP6OCgk0WjgCIAAPCIAJE=
+   eJxjYKA9mMTCwNDBgSmGDWzCIo5NbLgDbOGDK8yoCQBvQwRV
   </data>
  </layer>
  <layer name="other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYKAM7AfiA0SqvQ/EDyi0bxTQFgAAj2cDPw==
+   eJxjYKAM7APi/UB8gAi194D4PhA/oNDOUUA7AABHNATb
   </data>
  </layer>
  <objectgroup name="Moving" width="11" height="12">
-  <object name="teleport on push" type="teleport on push" gid="1027" x="80" y="176">
-   <properties>
-    <property name="map" value="../world/0.7"/>
-    <property name="x" value="26"/>
-    <property name="y" value="19"/>
-   </properties>
-  </object>
-  <object name="teleport on push" type="teleport on push" gid="1027" x="80" y="48">
-   <properties>
-    <property name="map" value="../world/0.7"/>
-    <property name="x" value="26"/>
-    <property name="y" value="10"/>
-   </properties>
-  </object>
   <object name="teleport on push" type="teleport on push" gid="1027" x="96" y="176">
    <properties>
     <property name="map" value="../world/0.7"/>

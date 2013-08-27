@@ -4,11 +4,7 @@ skin is invisible
 -->
 <bots>
     <bot id="1">
-        <step type="text" id="1">
-            <text lang="en">we will heal u monsters</text>
-            <text lang="fr">nous allons soigner vos monstres</text>
-        </step>
-        <step type="heal" id="2"/>
+        <step type="heal" id="1"/>
     </bot>
     <bot id="2">
         <step type="learn" id="1"/>

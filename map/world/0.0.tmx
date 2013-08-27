@@ -66,12 +66,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlj0OglAQhLegsCBacQAT9Ua2nsRCFPy7hQJ6DvDvHGrUazgGSQQhvoXVhMgkX6Z4j9k3xSZYGpENLEVvgqSajO8jd4HH8Ky53BzuO6u+v+mbpW/1VZV0X1UV7Sslbt+i6oMBqff9lj71TapVJ2q/0Knnu8Ptu9CJli84er473L5Sc7l9fWQEoGuEvklk9p53ovO0O3n6PmRqcc/SFOczMNfC93D6ln1/I5Vlf80G0RCMgAVsMAaTxnum5P4ukL8EDnCBB1ZgnTJXcn995AdgA7ZgB/bgkHOuat8j8k/gDAzs5gV+BTfg1+KZn3ac01da1f7y/gOlnPsfKOX/1vcOrLFWsg==
+   eJztljsKwkAQhqdIYSEpAh4goF7HZ1qv4LuzUFBQG98H8FX7PkD0Yv6iARMT3FlXQfSHjyl2M7NfMZCmRtQCTcFqAm9MxvdOXYAlowbN5fbhvvPv+xnfoLzLVzSqfUXzqq+qcH1fTQ3USdz3XXnm601UJ4rdEdfl7nB9p2Gi2R3zsNwdrq+quVxfGz2OwIpc68nTM3e745z73ZHxvaShuWtQ2jjvgK52fQ/H99v318m37G/CIEqCFEiDDMgCy3jsqXJ/8+hfAEVQAmVQAVWfuSr3t4f+fTAAQzACYzCRnCvqu0L/NdiALdiBPTgAO+Tu+WzHOb6q899f3n+gqsr9D1RVf833DFWCUlc=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKQjxNa3NoDUb9S5n7hqp/h4r5lLpnsNjDwsfAwIqE2fjIU0OpO8gFpNrjAnS7KxJ2w+IXYtRQ6g5ywWBNz6P5l772JPIzMCQBcTIQpwBxKhCnAXE6P6ba4ZR/iQH0yr8LOUh322BNzyMt/9KLHvXv8AYA1plgUw==
+   eJxjYBgYkMLCwJDKQjxNa3NoDUb9S5n7hqp/h4r5lLpnsNjDwsfAwIqE2fjIU0OpO8gFpNrjAnS7KxJ2w+IXYtRQ6g5ywWBNz6P5l7726AsxMBgAsSEQGwGxMRCbALGpEKba4ZR/iQH0yr8LOUh322BNzyMt/9KLHvXv8AYAyb9fCg==
   </data>
  </layer>
  <layer name="other" width="30" height="30">

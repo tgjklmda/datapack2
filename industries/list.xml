@@ -9,17 +9,17 @@
 		<ressource id="2003" quantity="1" />
 		<product id="2006" quantity="1" />
 	</industry>	
-	<industry id="3" time="30" cycletobefull="10">
+	<industry id="3" time="30" cycletobefull="100">
 		<ressource id="2002" quantity="1" />
 		<ressource id="2003" quantity="1" />
 		<product id="2007" quantity="1" />
 	</industry>
-	<industry id="4" time="30" cycletobefull="10">
+	<industry id="4" time="30" cycletobefull="100">
 		<ressource id="2003" quantity="1" />
 		<ressource id="2003" quantity="1" />
 		<product id="2008" quantity="1" />
 	</industry>
-	<industry id="5" time="30" cycletobefull="10">
+	<industry id="5" time="30" cycletobefull="100">
 		<ressource id="2004" quantity="1" />
 		<ressource id="2003" quantity="1" />
 		<product id="2009" quantity="1" />

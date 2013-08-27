@@ -98,7 +98,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYCAfuDEyMHgwUmAAEYANiNmhmAOHvRNFqG+vGhJbA4e9tAAjzV43IHaHYg862ovVLaP2Dmt704B2ZgyAvbQGsPKPFuXgYLZ7FAw98AiKHxNQlw3EOUTiXCLsVWKEYGUC+X81EK9Bwl5A3APEnmjiILyWCHvJBd1Qe3tpaMeovcPbXmx5KAtqbyYD6XmIWICeh/BhWuahUUA6AADqOzCH
+   eJxjYCAfuDEyMHgwUmAAEYANiNmhmAOHvRNFqG+vGhJbA4e9tAAjzV43IHaHYg862ovVLaP2Dmt704B2ZgyAvbQGsPKPFuXgYLabFGAnMDD2xg2QvXUDZO88AvY+guLHBMzJBuIcInEuEe5SYoRgZQL5fzUQr0HCXkDcA8SeaOIgvJYIe8kF3VB7e2lox6i9w9tebHkoC2pvJgPpeYhYgJ6H8GFa5qFRQDoAAFQeMn8=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -143,7 +143,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlktOwlAYhY8JAwcNk8oCGAmLcBkMWYYzMQxwBqIIC0Bl5gN8LKAwVfG5CwxCdO5pUpJ6c9u/t1oU9SRfbgiXHr5Lf9JKCtgilYDVzRrZ9FGGnKDrzdZD0glZ3RQj9KiRrit9r7i9/76L41vC99zPcfJZ37BzMPEz9Y16Dqaf/+u+SUXyTSpJ+e7aQIPskSZp2R/fN/VdTQM5H3mypOxzX/fYc0bOyQW5VHrVnqwPXdoWsO/jwNLvu2PPPXkgj+RJ8JXisKfvUcgAA0vvO2HPlKyvAK9c3wTfeWVec6Pmp/hK91WVv1ONbJM62bH1+6SYzu8Re47JCTklXVt/X+nmLcxXOvcr9lyTGzIktwG+0ryZ+DrLwIg9z958jLm+BPg63pzNZm6g9P62/2cpcXw3EO15LmzfIvl+RdSed+svDUU=
+   eJztlktOwlAYhY+JAwcNMakuwJG4CJfB0GU4U+MAZorKY66iM9/KAmqnykvZhQY1Ovc0KUm9ue3fW2wR9SRfbgiXHr5Lf9LiNFAixZDVyzLZCLAJOWHXG65H5Dhi9bISo0eNdF3peyXt/fedHN91jOd+TpJRfaPOwcTP1DfuOZh+/q/7phXJN62k5btnAxVSJTVSt7++b+q7mAPyAZbIlLLPe33JnityTW5IU+lVexYC6HJgAYcBGpZ+X5c9PfJAHklf8JXisOfWpzAPuJbe95U9b2R1Dnjn+uH37s/qfbNKVnOj5qf4SvfVFn+nbVImO2TX1u+TYjq/J+w5JWfknFzY+vtKN29RvtK537HnnrRIm3RCfKV5M/F1ZoAn9jz78zHg+hLi6/hzNpw5V+n9bf/PUpL4riHe81zUvkny/Y6oPZ/Z2w31
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
@@ -153,7 +153,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMAqGIOAdGGsV6GhvDQ8DQy0Qm4rSz04QmAO0cy4Pfe0cBYMcjID8BspnsDxHbzCa50bBQAIAPhAFzQ==
+   eJxjYBgFo2AUjIJRMAqGIOAlXqm9AAODgwB1rFUgwd54oJ0JFNhbw8PAUAvEpqKk6asH2tlAgb1zgHbO5SFf/ygYhoCEdE9NQEp+oxSA8hksz9EbjOa5UTCQAABs6whq
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
